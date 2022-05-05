@@ -1,0 +1,6962 @@
+[
+ {
+  "id": "N170001",
+  "name": "PALIVELA ASHOK KUMAR",
+  "dob": "14-11-1999",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170002",
+  "name": "KOMMIREDDY VENKATA NAGA BABU",
+  "dob": "26-11-1999",
+  "branch": "ME"
+ },
+ {
+  "id": "N170003",
+  "name": "UCHULA SUNIL KUMAR",
+  "dob": "13-01-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170004",
+  "name": "CHESETTI BHANU PRASAD",
+  "dob": "01-03-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170005",
+  "name": "SHAIK JANI BASHA",
+  "dob": "03-04-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170006",
+  "name": "KALLEPALLI SIVA RAMAKRISHNA",
+  "dob": "19-04-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170007",
+  "name": "KONANKI SUVARNA SUNIL",
+  "dob": "31-05-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N170008",
+  "name": "JILLA VENKAYAMMA",
+  "dob": "04-06-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N170009",
+  "name": "GARA SRINU",
+  "dob": "09-07-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170010",
+  "name": "SERU THARUNI",
+  "dob": "10-07-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170011",
+  "name": "MATHI DIVYASRI",
+  "dob": "21-07-2000",
+  "branch": "MME"
+ },
+ {
+  "id": "N170012",
+  "name": "MACHERLA NAGAJYOTHI",
+  "dob": "29-07-2000",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170013",
+  "name": "KONA BHARATH RAJU",
+  "dob": "10-08-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170014",
+  "name": "DOODI ANANDA SWAROOP",
+  "dob": "16-08-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N170015",
+  "name": "REKADI BALA SARASWATHI",
+  "dob": "07-09-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N170016",
+  "name": "VYKUNTAM DHARANI",
+  "dob": "08-09-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170017",
+  "name": "PINISETTI DHANALAKSHMI",
+  "dob": "15-09-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170018",
+  "name": "BAKURU LOKESH",
+  "dob": "17-09-2000",
+  "branch": "MME"
+ },
+ {
+  "id": "N170019",
+  "name": "PULAMARASETTI UDAY KIRAN",
+  "dob": "19-09-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170020",
+  "name": "PINIPE MAMATHA",
+  "dob": "25-09-2000",
+  "branch": "MME"
+ },
+ {
+  "id": "N170021",
+  "name": "DASARI VENKATESH",
+  "dob": "26-09-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170022",
+  "name": "SHAIK RAFIYA",
+  "dob": "28-09-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170023",
+  "name": "SHEIK VALLIMA",
+  "dob": "19-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170024",
+  "name": "RAJYA LAKSHMI CHEEKATI",
+  "dob": "15-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170025",
+  "name": "KAGITHA MEENAKSHI",
+  "dob": "24-10-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170026",
+  "name": "KUNCHANAPALLI SIRINETHIKONDA",
+  "dob": "30-10-2000",
+  "branch": "NP"
+ },
+ {
+  "id": "N170027",
+  "name": "VITTANALA MANIKUMAR",
+  "dob": "01-11-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170028",
+  "name": "NALI LAVANYA",
+  "dob": "02-11-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170030",
+  "name": "GEDELA GAYATHRI",
+  "dob": "05-11-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170031",
+  "name": "CHESETTI SEETHA LAKSHMI",
+  "dob": "20-11-2000",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170032",
+  "name": "DIMPAL SAMAL",
+  "dob": "29-11-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170033",
+  "name": "KONDETI VENKATA ABHINAVA",
+  "dob": "30-11-2000",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170034",
+  "name": "SAYYAD RIHANA",
+  "dob": "05-12-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N170035",
+  "name": "CHINDUKURI KEERTHI SRI",
+  "dob": "12-12-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170036",
+  "name": "GADIBOINA KEDHARNADH",
+  "dob": "13-12-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170037",
+  "name": "SIRIGIREDDY ANKALAMMA",
+  "dob": "10-06-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N170038",
+  "name": "KUDUPUDI SRI VALLI",
+  "dob": "28-12-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170039",
+  "name": "PERAVALI GOWRI SUPRIYA",
+  "dob": "29-12-2000",
+  "branch": "MME"
+ },
+ {
+  "id": "N170040",
+  "name": "KONALA JHANSI",
+  "dob": "02-01-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170041",
+  "name": "PRUDIVI JITENDRA V S S N Y M N KASI KUMAR",
+  "dob": "02-01-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170042",
+  "name": "VANIMINA NANDINI",
+  "dob": "05-01-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170043",
+  "name": "MOGILI DURGA VASU",
+  "dob": "06-01-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170044",
+  "name": "MD IRFAN",
+  "dob": "08-01-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170045",
+  "name": "JALLI NITHISH",
+  "dob": "09-01-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170046",
+  "name": "NADUPURI VENKATESH",
+  "dob": "18-01-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170047",
+  "name": "DARAPUNENI DIVYAVANI",
+  "dob": "18-01-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170048",
+  "name": "THOTA SIREESHA",
+  "dob": "28-01-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170049",
+  "name": "BIJJAM ANAND PRASAD",
+  "dob": "28-01-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170050",
+  "name": "LENKA DHARMA RAO",
+  "dob": "30-01-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170051",
+  "name": "DEVI REDDY GNANA JYOTHI",
+  "dob": "03-02-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170053",
+  "name": "V MOHITH",
+  "dob": "09-02-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170054",
+  "name": "MUKKAMALA BALA GAYATHRI",
+  "dob": "17-02-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170055",
+  "name": "TUMMA ABHINAV",
+  "dob": "26-02-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170056",
+  "name": "LINGUTLA VANDANA",
+  "dob": "15-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170057",
+  "name": "KANKANAMPATI ASHOKA DEEPTHI",
+  "dob": "06-03-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170058",
+  "name": "SEELAM MOUNIKA",
+  "dob": "12-03-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170059",
+  "name": "PONNAGANTI DIVYA BHAVANI",
+  "dob": "14-03-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170060",
+  "name": "YANDRAPU MAHESH",
+  "dob": "17-03-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170061",
+  "name": "POLIMETLA ASHA",
+  "dob": "21-03-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170062",
+  "name": "NOKKU PUSHPA LAKSHMI KUMARI",
+  "dob": "29-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170063",
+  "name": "PAIDIMALLA PRAMEELA",
+  "dob": "22-03-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170064",
+  "name": "SYED ASHRAF",
+  "dob": "28-03-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170065",
+  "name": "MATTAPARTHI ARUNASRI",
+  "dob": "30-03-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170066",
+  "name": "TAMALAMPUDI VIJAYA KUMAR REDDY",
+  "dob": "31-03-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170067",
+  "name": "KANDIBOINA CHANDINI",
+  "dob": "03-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170068",
+  "name": "DEVARAPALLI HEMAMBICA",
+  "dob": "03-04-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170069",
+  "name": "JILLA YAMINI",
+  "dob": "23-09-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170070",
+  "name": "BHUPATHI SWEETY",
+  "dob": "10-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170071",
+  "name": "THOTA TEJA SREE",
+  "dob": "10-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170072",
+  "name": "KOTIPALLI MANI KUMAR",
+  "dob": "13-04-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170073",
+  "name": "KOTHURTHI SAI SAHITH",
+  "dob": "20-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170074",
+  "name": "PRATTIPATI ANIL KUMAR",
+  "dob": "28-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170076",
+  "name": "JAVVAJI HEMANTH KUMAR",
+  "dob": "14-12-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170077",
+  "name": "AKELLA ANJANI VYAGHRI VIJAYA LAKSHMI",
+  "dob": "03-05-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170078",
+  "name": "SOMAROUTHU VENKATA LAKSHMI",
+  "dob": "04-05-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170079",
+  "name": "GOMASANI SIVA SANKAR",
+  "dob": "05-05-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170080",
+  "name": "TALLAPU SURYA KUMARI",
+  "dob": "08-05-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170081",
+  "name": "BAKI VENKATESH",
+  "dob": "10-05-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170082",
+  "name": "KURAPATI VAISHNAVI",
+  "dob": "13-05-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170083",
+  "name": "GULLINKALA SRI SATYA",
+  "dob": "16-05-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170084",
+  "name": "SANAPATHI CHAYA SUVARNA LATHA DEVI",
+  "dob": "19-05-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170085",
+  "name": "VASAMSETTI SRIDEEPTHI",
+  "dob": "20-05-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170086",
+  "name": "THOTAKURA ANURADHA",
+  "dob": "20-05-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170087",
+  "name": "BHAVANA KAVYA",
+  "dob": "21-05-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170088",
+  "name": "LOKAM ARCHANA",
+  "dob": "22-05-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170089",
+  "name": "BADANA ASRITHA",
+  "dob": "23-05-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170090",
+  "name": "DUNNA VENKATESH",
+  "dob": "24-05-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170091",
+  "name": "A AJIT KUMAR",
+  "dob": "27-05-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170092",
+  "name": "AKULA MADHURIMA",
+  "dob": "29-05-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170093",
+  "name": "KONA RAMANJANEYULU",
+  "dob": "31-05-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170094",
+  "name": "GANDHAM NEERAJA DEVI",
+  "dob": "13-01-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170095",
+  "name": "BOPPADAPU SWATHI",
+  "dob": "03-06-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170096",
+  "name": "KOPPADI ANANDA RAJU",
+  "dob": "05-06-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170099",
+  "name": "ADINA PAVANI",
+  "dob": "10-06-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170100",
+  "name": "MERUVA JYOTHIRMAI SAI",
+  "dob": "10-06-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170101",
+  "name": "GRANDHI KOMALI LAKSHMI PRATYUSHA",
+  "dob": "13-06-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170102",
+  "name": "BALIJI ARJUNAMMA",
+  "dob": "14-06-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170103",
+  "name": "KAMATHAM CHINMAYA SIVA YOGANANDA REDDY",
+  "dob": "15-06-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170104",
+  "name": "NAIDU RIJITHA SRI SAILAKSHMI",
+  "dob": "26-04-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170105",
+  "name": "THAMMISETTY HARITHA",
+  "dob": "22-06-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170106",
+  "name": "MANTRI KUMARI",
+  "dob": "25-06-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170107",
+  "name": "BONAM BALA SURYA KRANTHI BHAVANI",
+  "dob": "28-05-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N170108",
+  "name": "AKKINA MAHIMA SWARNALATHA",
+  "dob": "26-06-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170109",
+  "name": "YENUGUPALLI ASHOK",
+  "dob": "26-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170110",
+  "name": "SUDHA LOVABHAVANI MATHA",
+  "dob": "27-06-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170111",
+  "name": "SANGATHALA LAKSHMI SAI",
+  "dob": "07-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170112",
+  "name": "KOTU VENKATESH",
+  "dob": "29-06-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170113",
+  "name": "KAKUMANU ARSHITA",
+  "dob": "08-03-2003",
+  "branch": "CE"
+ },
+ {
+  "id": "N170114",
+  "name": "VANKA SWATHI",
+  "dob": "01-07-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170115",
+  "name": "THOOMU LAKSHMI DURGABHAVANI",
+  "dob": "04-07-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170116",
+  "name": "SHAIK SHARUN BEE",
+  "dob": "05-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170117",
+  "name": "KUNAPAREDDY SATYA VENKATA DEVI",
+  "dob": "06-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170118",
+  "name": "DANNANA JYOTHSNA",
+  "dob": "06-07-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170119",
+  "name": "KUNCHALA JYOTHSNA",
+  "dob": "07-07-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170120",
+  "name": "KANNA JAHNAVI",
+  "dob": "07-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170121",
+  "name": "RELANGI JAYA SRAVIKA RANI",
+  "dob": "08-07-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170122",
+  "name": "KOTCHERLA CHANDU",
+  "dob": "09-07-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170123",
+  "name": "GANDI MANGADEVI",
+  "dob": "10-07-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170124",
+  "name": "VULLAKULA MAHIMA",
+  "dob": "13-07-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170125",
+  "name": "MURARI ANUSHA",
+  "dob": "17-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170126",
+  "name": "P VENKATA SIVA PRAVEEN",
+  "dob": "18-07-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170127",
+  "name": "VATTI MADHAVI",
+  "dob": "21-07-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170128",
+  "name": "KUNAPAREDDY VYSHNAVI",
+  "dob": "26-07-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170129",
+  "name": "YERRAMSETTI BRAHMA VANI SAI DURGA",
+  "dob": "11-12-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N170130",
+  "name": "THAMATAM VENKATA REDDY",
+  "dob": "29-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170132",
+  "name": "KAKILETI RUPASRI",
+  "dob": "31-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170133",
+  "name": "PADALA MANIKANTA ESWARA REDDY",
+  "dob": "01-08-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170134",
+  "name": "KOTA JAYA NAGALAKSHMI SUPRIYA",
+  "dob": "04-08-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170135",
+  "name": "SIRIPURAPU DEEPAK",
+  "dob": "10-08-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170136",
+  "name": "UNGARALA LAKSHMI KALA",
+  "dob": "11-08-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170137",
+  "name": "SAI POOJITHA SUNKARA",
+  "dob": "25-10-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170138",
+  "name": "ASARAPALLI DEVAKI",
+  "dob": "12-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170140",
+  "name": "MANDLA USHA RANI",
+  "dob": "13-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170141",
+  "name": "YANDAPALLI HARIKA",
+  "dob": "20-10-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170142",
+  "name": "KOPPULA JAGADEESH",
+  "dob": "14-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170143",
+  "name": "DASARI SRILAKSHMI",
+  "dob": "15-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170144",
+  "name": "KOTTANA GNANADHAR",
+  "dob": "15-08-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170146",
+  "name": "KUNCHALA PAVAN KALYAN",
+  "dob": "21-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170147",
+  "name": "BANDE PARASURAM",
+  "dob": "21-08-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170148",
+  "name": "RAVULAPATI GANESHREDDY",
+  "dob": "22-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170149",
+  "name": "BELLAPU GANESH",
+  "dob": "24-08-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170151",
+  "name": "SHEIK MUNNISHA",
+  "dob": "27-08-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170152",
+  "name": "ATTILI HARSHITHA",
+  "dob": "27-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170153",
+  "name": "TELAGAMSETTI SEETHA RAMADEVI",
+  "dob": "28-08-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170154",
+  "name": "MANDA SAIPAVAN",
+  "dob": "29-08-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170156",
+  "name": "BENDA LAKSHMI VINAYASRI",
+  "dob": "21-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170157",
+  "name": "KANDUKURI SURYA PRASANNA",
+  "dob": "01-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170158",
+  "name": "LOPINTI PAVANI",
+  "dob": "01-09-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170159",
+  "name": "KOLLU GOURI SANKARI",
+  "dob": "02-09-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170160",
+  "name": "DARAPUNENI VENKATA NARENDRA KUMAR",
+  "dob": "04-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170161",
+  "name": "TELAGAREDDY SATYA SRI",
+  "dob": "07-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170163",
+  "name": "DANGETI MERCY",
+  "dob": "12-09-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170164",
+  "name": "YERADESI VENKATESWARLU",
+  "dob": "24-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170165",
+  "name": "SHAIK SAMEER",
+  "dob": "16-09-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170166",
+  "name": "YEDDU CHANDRIKARANI",
+  "dob": "05-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170167",
+  "name": "POLINATI JESSY GRACE",
+  "dob": "17-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170168",
+  "name": "NANDUPILLI MURALI",
+  "dob": "18-09-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170169",
+  "name": "SHAIK SHABNAM SULTHANA",
+  "dob": "18-09-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170170",
+  "name": "GALLA REVATHI",
+  "dob": "20-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170171",
+  "name": "KANNIPAMULA NAGA MOUNIKA",
+  "dob": "22-09-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170172",
+  "name": "NAIDU VARALAKSHMI",
+  "dob": "22-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170173",
+  "name": "SADHANALA BALARAJYALAKSHMI",
+  "dob": "24-09-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170175",
+  "name": "KOPPISETTY BHAGYA LAKSHMI",
+  "dob": "25-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170176",
+  "name": "SHAIK SAJIDA",
+  "dob": "25-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170177",
+  "name": "MANDA SRUJANA",
+  "dob": "27-09-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170178",
+  "name": "DEEVI BHAVANA",
+  "dob": "27-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170179",
+  "name": "ADABALA JAI SAINAGESH",
+  "dob": "28-09-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170180",
+  "name": "MADEPALLI GAYATHRI",
+  "dob": "28-09-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170181",
+  "name": "NAIDU SURAJ VARDHAN",
+  "dob": "29-09-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170182",
+  "name": "NALLURI VEERA BABU",
+  "dob": "30-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170183",
+  "name": "DUNABOYINA DURGA DILEEP",
+  "dob": "03-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170184",
+  "name": "TADDI SATISH",
+  "dob": "03-10-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170185",
+  "name": "ANUSURI ISHWARYA",
+  "dob": "05-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170186",
+  "name": "TATA UMADEVI",
+  "dob": "06-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170187",
+  "name": "BHEEMUNI SARADA DEVI",
+  "dob": "24-07-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170188",
+  "name": "MANAPURAPU HARIKA",
+  "dob": "10-10-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170189",
+  "name": "GORLE HARI BABU",
+  "dob": "10-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170190",
+  "name": "MUVVALA HEMA NAGA RATNAM",
+  "dob": "11-10-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170191",
+  "name": "KOMAKULA HEMA SIVANI",
+  "dob": "11-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170192",
+  "name": "ADAPAKA MADHAVI",
+  "dob": "11-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170193",
+  "name": "RELANGI VIJAYA LAKSHMI",
+  "dob": "12-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170194",
+  "name": "RAYUDU MOHAN MOULI",
+  "dob": "13-10-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170195",
+  "name": "NAGUDU MOUNIKA DURGA",
+  "dob": "14-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170196",
+  "name": "SHAIK ASHA",
+  "dob": "14-10-2001",
+  "branch": "PUC"
+ },
+ {
+  "id": "N170197",
+  "name": "ARUMILLI BHAVYAMOUNIKA",
+  "dob": "24-07-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170198",
+  "name": "TANKALA ASHOK KUMAR",
+  "dob": "16-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170199",
+  "name": "MADDALA TEJASRI",
+  "dob": "18-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170200",
+  "name": "SADANALA DURGA YASHASWINI",
+  "dob": "20-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170201",
+  "name": "DEVARAPALLI DURGA PRAVEEN KUMAR",
+  "dob": "21-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170202",
+  "name": "BEDAMSETTY BHARATHI",
+  "dob": "21-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170203",
+  "name": "K YASASWINI",
+  "dob": "21-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170204",
+  "name": "PEMMADI BHAVYA SRI VARMA",
+  "dob": "22-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170205",
+  "name": "GUNDUBOGULA SURYA LAKSHMI PRASANNA",
+  "dob": "23-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170206",
+  "name": "CHEKKA HEMANTH KUMAR",
+  "dob": "23-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170207",
+  "name": "NANDURI NANDINI",
+  "dob": "15-02-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170208",
+  "name": "DANDE BOBBY",
+  "dob": "26-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170209",
+  "name": "DODLA SURYA TEJA",
+  "dob": "27-10-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170210",
+  "name": "NULU PHANI SWATHI",
+  "dob": "27-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170211",
+  "name": "NIMMANA VENKATACHARAN",
+  "dob": "27-10-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170212",
+  "name": "PAGOTI SURESH",
+  "dob": "27-10-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170213",
+  "name": "PERURI CHANDRAKIRAN",
+  "dob": "30-10-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170214",
+  "name": "PEDAPUDI DIVYA",
+  "dob": "30-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170215",
+  "name": "PACHIPALA DURGA PRASAD",
+  "dob": "31-10-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170216",
+  "name": "KOPURI LAKSHMI",
+  "dob": "01-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170217",
+  "name": "MUTHYALA KALYANI",
+  "dob": "05-11-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170218",
+  "name": "TEKI KUMARI CHANDINI",
+  "dob": "05-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170219",
+  "name": "MIRABILLI JYOTHI",
+  "dob": "05-11-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170220",
+  "name": "VATTURI GOUTHAMI",
+  "dob": "21-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170221",
+  "name": "PASUPULETI SIVASAIMANIKANTA",
+  "dob": "06-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170222",
+  "name": "CHALLAPALLI SAI KRISHNA KISHORE",
+  "dob": "06-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170223",
+  "name": "KONNA ROSHNI",
+  "dob": "06-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170224",
+  "name": "BITRA MAHIPAL",
+  "dob": "10-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170225",
+  "name": "CHOLLANGI MEGHANADEVI",
+  "dob": "10-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170226",
+  "name": "SHAIK ANJU",
+  "dob": "12-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170227",
+  "name": "VAGALA VARSHA",
+  "dob": "28-12-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170228",
+  "name": "RAYANA ROSHINI",
+  "dob": "14-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170229",
+  "name": "KOKKILIGADDA TRIVENI",
+  "dob": "14-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170230",
+  "name": "MADETI TEJASWINI",
+  "dob": "15-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170231",
+  "name": "NIRUPOMA SAHU",
+  "dob": "16-11-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170232",
+  "name": "MADASU SUMA",
+  "dob": "09-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170233",
+  "name": "KANCHARLA NIKITHA",
+  "dob": "16-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170234",
+  "name": "PANDRINKI YASHWANTH",
+  "dob": "17-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170235",
+  "name": "DUDALA SRI VYSHNAVI",
+  "dob": "18-11-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170236",
+  "name": "KARRI CHANDRA SEKHAR",
+  "dob": "19-11-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170237",
+  "name": "KOTYADA SAI LAKSHMI",
+  "dob": "23-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170238",
+  "name": "MENDI SARITA",
+  "dob": "23-11-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170239",
+  "name": "CHINTALAPATI GAYATHRI",
+  "dob": "23-11-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170241",
+  "name": "ADIGOPULA LAKSHMIVENKATESH",
+  "dob": "28-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170242",
+  "name": "KALATHURI BALARAM",
+  "dob": "29-11-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170243",
+  "name": "GOLUGURI VARALAKSHMI",
+  "dob": "30-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170244",
+  "name": "KOPPU ANUSHA",
+  "dob": "30-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170245",
+  "name": "PUKKALLA KHYATHI",
+  "dob": "02-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170246",
+  "name": "MALLIPUDI SRAVANI MANJU",
+  "dob": "03-12-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170247",
+  "name": "PALLEM KARTHEEK",
+  "dob": "04-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170248",
+  "name": "SEERAM VENKATESWARA PRASAD",
+  "dob": "05-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170249",
+  "name": "MUDUNURI SRAVYA VARMA",
+  "dob": "07-12-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170250",
+  "name": "SEELAM MOUNIKA",
+  "dob": "08-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170251",
+  "name": "PENKE GOWTHAMI",
+  "dob": "10-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170252",
+  "name": "GURALA UMA SUPRIYA",
+  "dob": "10-12-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170253",
+  "name": "KUMPATLA SRIRAM",
+  "dob": "10-12-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170254",
+  "name": "TELAKARAPU RAMYA SREE",
+  "dob": "11-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170255",
+  "name": "VAVILAPALLI TEJA SRI",
+  "dob": "12-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170256",
+  "name": "GAMPALA LAKSHMI VAGDEVI",
+  "dob": "15-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170257",
+  "name": "PECHETTI DURGA MOUNIKA",
+  "dob": "16-12-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170258",
+  "name": "LINGINENI SRILAKSHMI",
+  "dob": "16-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170259",
+  "name": "NALLAMILLI MANIKANTA REDDY",
+  "dob": "16-12-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170260",
+  "name": "BOLISETTY VAGDEVI",
+  "dob": "17-12-2001",
+  "branch": "NP"
+ },
+ {
+  "id": "N170261",
+  "name": "AKULA SWAPNA SEETHA",
+  "dob": "10-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170262",
+  "name": "RAPETI GOWRI PRIYA",
+  "dob": "20-12-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170263",
+  "name": "THATIKONDA CHAITANYA SIRISHA",
+  "dob": "22-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170264",
+  "name": "BOKKA NAGAJYOTHI",
+  "dob": "23-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170265",
+  "name": "GUNISETTY RANGANADH",
+  "dob": "24-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170266",
+  "name": "KONDEPUDI PRUDHVI RAJ",
+  "dob": "25-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170267",
+  "name": "YARRAMSETTI NEEHARIKA",
+  "dob": "28-05-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N170268",
+  "name": "RAYUDU AKANKSHA",
+  "dob": "27-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170269",
+  "name": "KOTLA SRILEKHA",
+  "dob": "27-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170270",
+  "name": "KAVYA MOTHE",
+  "dob": "29-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170271",
+  "name": "GUDIWADA SREE RAMYA",
+  "dob": "29-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170272",
+  "name": "LOPINTI ABHIJEETH BABA",
+  "dob": "30-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170273",
+  "name": "KAMBALA TATAJI",
+  "dob": "02-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170275",
+  "name": "S.MAHENDRA KUMAR",
+  "dob": "02-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170276",
+  "name": "YALLA VAGDEVI",
+  "dob": "02-01-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170277",
+  "name": "MAJJI ABHIRAM",
+  "dob": "03-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170278",
+  "name": "GOTTAPU MOUNIKA",
+  "dob": "04-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170279",
+  "name": "SIVAKOTI ASHOK KUMAR",
+  "dob": "04-01-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170280",
+  "name": "MANTHRI SAI PRATHYUSHA",
+  "dob": "05-01-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170281",
+  "name": "PULA TARAKA SUNILKUMAR",
+  "dob": "07-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170282",
+  "name": "BEZAWADA SIVA RAJA RAJESWARI",
+  "dob": "08-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170283",
+  "name": "CHANDALA SAILAJA",
+  "dob": "08-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170284",
+  "name": "VADDADI SRI SAI YASHAS CHANDRA",
+  "dob": "11-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170285",
+  "name": "KHAGGA GAYATHRI",
+  "dob": "15-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170286",
+  "name": "DHUBA DEEPIKA LAKSHMI PRIYA",
+  "dob": "18-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170287",
+  "name": "KANCHARLA ASWINI SAI KIRANMAI",
+  "dob": "21-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170288",
+  "name": "BOMMI SETTI BALU",
+  "dob": "22-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170291",
+  "name": "GOPI KAVYA",
+  "dob": "25-01-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170292",
+  "name": "SHAIK TAHASEEN",
+  "dob": "26-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170293",
+  "name": "ALLAMSETTI HEMA HARI PRIYA",
+  "dob": "29-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170295",
+  "name": "GENJI SHIVA SHANKAR",
+  "dob": "29-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170297",
+  "name": "PANTHADI SATYA NAGA SANTHI KUMARI",
+  "dob": "02-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170299",
+  "name": "S VAMSI",
+  "dob": "04-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170300",
+  "name": "NAKIREDDI SRINU",
+  "dob": "05-02-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170301",
+  "name": "KILLI TEJA",
+  "dob": "06-02-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170302",
+  "name": "PINNINTI NEELIMA",
+  "dob": "06-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170303",
+  "name": "GURRAPUSALA YASWANTH",
+  "dob": "08-02-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170304",
+  "name": "MARISETTI NAGA LAKSHMI",
+  "dob": "09-02-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170305",
+  "name": "NALLA NAGA PADMA SRI SIDDU",
+  "dob": "29-07-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170306",
+  "name": "PYLA JANAKI",
+  "dob": "10-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170307",
+  "name": "ANINGI LIKHITH",
+  "dob": "10-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170308",
+  "name": "GATREDDI PUJITHA",
+  "dob": "11-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170309",
+  "name": "SASUBILLI JAGADEESH",
+  "dob": "11-02-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170310",
+  "name": "YEDLA GOWTHAMI",
+  "dob": "12-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170311",
+  "name": "VANGAPANDU LAVANYA",
+  "dob": "12-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170314",
+  "name": "KOLA BHAVANI",
+  "dob": "15-02-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170315",
+  "name": "RELANGI SRIDEVI",
+  "dob": "14-11-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170316",
+  "name": "KOLLI MOUNIKA",
+  "dob": "22-02-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170317",
+  "name": "CHINTAKAYALA NAVYA SREE",
+  "dob": "25-02-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170318",
+  "name": "KOTA SURESH KUMAR",
+  "dob": "23-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170319",
+  "name": "KORADA SANTOSH KUMAR",
+  "dob": "25-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170320",
+  "name": "GANDEPALLI.SRAVANI",
+  "dob": "18-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170321",
+  "name": "ADAPA DIVYASRI",
+  "dob": "26-02-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170322",
+  "name": "BUDDHA MOUNIKA AISWARYA",
+  "dob": "27-02-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170323",
+  "name": "NAGINENI PUSHNA",
+  "dob": "12-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170324",
+  "name": "BOTTA RENUKA",
+  "dob": "27-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170325",
+  "name": "BHATTA VINEELA.",
+  "dob": "01-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170326",
+  "name": "YENDURI ESWAR",
+  "dob": "01-03-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170327",
+  "name": "KANCHARI PRATHYUSHA",
+  "dob": "03-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170328",
+  "name": "TIRUMALASETTY RUPALI",
+  "dob": "03-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170329",
+  "name": "VEESAM SATYADIVYA",
+  "dob": "04-03-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170331",
+  "name": "YARAGUTI YAMINI NAVYA SRI",
+  "dob": "06-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170332",
+  "name": "BODAVULA DEVI PRASANTHI",
+  "dob": "06-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170336",
+  "name": "KOLLA MANOJ",
+  "dob": "08-03-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170337",
+  "name": "RAAVI ANANTHA LAKSHMI",
+  "dob": "09-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170338",
+  "name": "DASARI ANUSHA",
+  "dob": "14-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170339",
+  "name": "VADDI KAVYA",
+  "dob": "10-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170340",
+  "name": "KOPPADI LOKESH",
+  "dob": "10-03-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N170341",
+  "name": "NEMALA VENKATALAKSHMI",
+  "dob": "11-03-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170342",
+  "name": "KORLAPATI D V V NAGA LAKSHMI",
+  "dob": "13-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170343",
+  "name": "BURREDDY SRAVANI",
+  "dob": "14-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170344",
+  "name": "PEELA SAI SARITHA",
+  "dob": "16-03-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170345",
+  "name": "PALURI LAVANYA NAGA JYOTHI",
+  "dob": "17-03-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170346",
+  "name": "GANNABATTULA MADHUVALLI",
+  "dob": "17-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170347",
+  "name": "KOTLA BHAVANI SAMMAKKA",
+  "dob": "14-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170348",
+  "name": "PAMULA VENKANNA BABU",
+  "dob": "19-03-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170349",
+  "name": "TIRUMALARAJU RAKESH VARMA",
+  "dob": "22-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170350",
+  "name": "PENTAPATI DURGA BHAVANI",
+  "dob": "20-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170351",
+  "name": "VELAMALA CHANDINI",
+  "dob": "20-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170352",
+  "name": "LOPINTI MANIKANTA PRASAD",
+  "dob": "20-03-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170353",
+  "name": "ALLAMSETTY VENKATA DEEPIKA",
+  "dob": "21-03-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170354",
+  "name": "TOTTADI AISHWARYA NAIDU",
+  "dob": "21-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170355",
+  "name": "MUTHIREDDY SINDHU",
+  "dob": "24-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170356",
+  "name": "KILLADI VARAHALA BABU",
+  "dob": "24-03-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170357",
+  "name": "LAKKOJU SATYA SRI HARSHA",
+  "dob": "25-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170358",
+  "name": "NALLI ESTHER RANI",
+  "dob": "26-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170359",
+  "name": "BOKAM BHASKAR SAI",
+  "dob": "26-03-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170360",
+  "name": "BEERA MERLIN KESIA",
+  "dob": "26-03-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170361",
+  "name": "THOKALA KEERTHANA",
+  "dob": "29-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170362",
+  "name": "VELUGULA VENKATA SUBBALAKSHMI",
+  "dob": "31-03-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170363",
+  "name": "SAI LAKSHMI GURRAM",
+  "dob": "21-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170364",
+  "name": "CHEDALA DURGA PRASAD",
+  "dob": "10-08-2000",
+  "branch": "NP"
+ },
+ {
+  "id": "N170365",
+  "name": "ROBBI MOUNIKA",
+  "dob": "29-08-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N170366",
+  "name": "KODA DURGA PRASAD",
+  "dob": "03-04-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170367",
+  "name": "DHULIPUDI VAISHNAVI",
+  "dob": "03-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170368",
+  "name": "MAMIDALA VIGNESWAR",
+  "dob": "04-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170369",
+  "name": "MUDUNURI RAJESWARI",
+  "dob": "04-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170370",
+  "name": "BHUSALI JAYALAKSHMI",
+  "dob": "05-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170371",
+  "name": "OMMI SRAVAN SAI KUMAR",
+  "dob": "06-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170372",
+  "name": "GANTA LALITHA",
+  "dob": "06-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170373",
+  "name": "POTNURU NEELESH",
+  "dob": "06-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170374",
+  "name": "SHAIK MUNEERABEGUM",
+  "dob": "07-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170375",
+  "name": "CHITLURI JYOTHIKA PRASANNA",
+  "dob": "10-03-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170376",
+  "name": "SHAIK NIHA",
+  "dob": "22-03-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170377",
+  "name": "JAHNAVI KANUMURI",
+  "dob": "07-12-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170378",
+  "name": "ADAPA NIRMALA",
+  "dob": "11-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170379",
+  "name": "KOMMANA GOWTAMI",
+  "dob": "14-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170380",
+  "name": "GHANTA KAVYA SRIDEVI",
+  "dob": "14-04-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170381",
+  "name": "YADAM LASYA NAGA KRISHNANJALI",
+  "dob": "15-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170382",
+  "name": "PILLA INDRA VENI",
+  "dob": "15-04-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170383",
+  "name": "BANDI SRINIVASA RAO",
+  "dob": "15-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170384",
+  "name": "NANDAMURI VENKATA PADMAJA",
+  "dob": "17-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170385",
+  "name": "ADABALA CHANDRIKA",
+  "dob": "19-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170386",
+  "name": "PARAVADA HIMAJA",
+  "dob": "20-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170387",
+  "name": "KASIREDDI VASAVI",
+  "dob": "22-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170388",
+  "name": "SADHANALA MOHAN ADITYA",
+  "dob": "23-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170390",
+  "name": "MOGILI NAGAMANI",
+  "dob": "28-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170391",
+  "name": "PANDURI LAKSHMANA RAO",
+  "dob": "29-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170392",
+  "name": "GEESALA HYMAVATHI",
+  "dob": "30-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170394",
+  "name": "PAPOLU LAKSHMI NARAYANA PEDA YESU",
+  "dob": "01-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170395",
+  "name": "BILQUIES BEGUM",
+  "dob": "01-05-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170396",
+  "name": "KUTHA SUDHEER REDDY",
+  "dob": "02-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170397",
+  "name": "ALLADA SIVANI",
+  "dob": "02-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170398",
+  "name": "AMARAPU REVATHI",
+  "dob": "30-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170399",
+  "name": "PUJARI VIGNESWARA RAO",
+  "dob": "15-06-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N170400",
+  "name": "MADARAPU LAKSHMI PRIYANKA",
+  "dob": "04-05-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170401",
+  "name": "TIBIRISETTI VEERABABU",
+  "dob": "04-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170402",
+  "name": "VEMPATI ANITHA",
+  "dob": "04-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170403",
+  "name": "VELAGA VENKATA BALA SAI",
+  "dob": "04-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170404",
+  "name": "GORLI SIVA KRISHNA CHAKRA",
+  "dob": "05-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170405",
+  "name": "SARELLA BOBBY",
+  "dob": "05-05-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N170406",
+  "name": "KOKKILIGADDA SRUJANA",
+  "dob": "05-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170407",
+  "name": "MURALASETTI ANITHA",
+  "dob": "06-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170408",
+  "name": "AVULAMANDA VENKATESWARLU",
+  "dob": "07-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170409",
+  "name": "THOTA RATHNA PRIYA",
+  "dob": "21-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170410",
+  "name": "MAJJI NEERAJA",
+  "dob": "09-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170411",
+  "name": "OSURI RAJU",
+  "dob": "09-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170412",
+  "name": "MARASU VENKATA NAGENDRA BABU",
+  "dob": "10-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170413",
+  "name": "YARABATI VENKATA REVATHIPATHI",
+  "dob": "10-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170414",
+  "name": "PYLA SARASWATHI",
+  "dob": "10-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170415",
+  "name": "KILAPARTI S.S.S.BHARATHI",
+  "dob": "12-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170416",
+  "name": "PAMARTHI USHA",
+  "dob": "13-05-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170417",
+  "name": "AJAY SHARMA",
+  "dob": "13-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170418",
+  "name": "KILLI BEBI RANI",
+  "dob": "13-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170419",
+  "name": "BAGADI URVASI",
+  "dob": "13-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170420",
+  "name": "KUDUPUDI SRI VYSHNAVI",
+  "dob": "14-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170421",
+  "name": "KALIDINDI PHANI SRI",
+  "dob": "14-05-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170422",
+  "name": "KALIDINDI VEERA KUSUMA DEVI TEJA",
+  "dob": "14-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170423",
+  "name": "TALLA DURGA KALYANI",
+  "dob": "15-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170424",
+  "name": "PATNALA GIRIJARANI",
+  "dob": "15-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170425",
+  "name": "PENUGURTHI SANTOSH",
+  "dob": "15-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170426",
+  "name": "MAJJI LOKESH BABU",
+  "dob": "15-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170427",
+  "name": "GOLLAMUDI DINESH",
+  "dob": "16-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170428",
+  "name": "ERKIPATI GEETHIKA",
+  "dob": "17-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170429",
+  "name": "BANDREDDI HARINANDINI",
+  "dob": "17-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170430",
+  "name": "YALLA SUNITHA",
+  "dob": "21-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170431",
+  "name": "BATTU RAKESH",
+  "dob": "22-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170432",
+  "name": "CHEKKA SANKAR",
+  "dob": "22-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170433",
+  "name": "SRIPALASETTI RENUKA BHAVANI",
+  "dob": "22-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170434",
+  "name": "GENJI JHANSI",
+  "dob": "22-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170435",
+  "name": "TADI VIJAYABHASKARA REDDY",
+  "dob": "23-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170436",
+  "name": "JUVVIGUNTA SAI GANESH",
+  "dob": "23-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170437",
+  "name": "KOKKILIGADDA CHAITANYA",
+  "dob": "23-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170438",
+  "name": "KAGITHA THANMAYA LAKSHMI",
+  "dob": "24-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170439",
+  "name": "KANCHARANA VENKATA SAI PRASAD",
+  "dob": "24-05-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170440",
+  "name": "KANTETI SIREESHA",
+  "dob": "25-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170441",
+  "name": "MIDDE RAMYA",
+  "dob": "25-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170442",
+  "name": "SHAIK MAHESH",
+  "dob": "26-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170443",
+  "name": "BELLANI HARI KRISHNA",
+  "dob": "27-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170444",
+  "name": "GUNTUPALLI YESWANTH PRAVEEN",
+  "dob": "27-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170445",
+  "name": "YERRAMSETTI BHASKAR RAM SAINATH",
+  "dob": "30-05-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170446",
+  "name": "PALLA SAI JAHNAVI",
+  "dob": "30-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170447",
+  "name": "VITHANALA KISHORE",
+  "dob": "26-04-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170448",
+  "name": "BUNGA LIKITHA",
+  "dob": "21-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170449",
+  "name": "UDDISA KARUNA",
+  "dob": "01-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170450",
+  "name": "PAMULAPATI SIVA SAI REDDY",
+  "dob": "01-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170451",
+  "name": "LANKA RENUKA",
+  "dob": "24-08-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170452",
+  "name": "ALLATIPALLI SAI KEERTHI",
+  "dob": "02-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170453",
+  "name": "PENTA RAMA",
+  "dob": "04-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170454",
+  "name": "NARLA SHAI ADITHYA",
+  "dob": "04-06-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170455",
+  "name": "ABOTHULA SATISH",
+  "dob": "05-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170456",
+  "name": "KADAVA YAMUNA",
+  "dob": "06-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170457",
+  "name": "SAMANTULA DURGA PRASAD",
+  "dob": "07-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170458",
+  "name": "PAPANA BALASRI",
+  "dob": "07-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170459",
+  "name": "KONCHADA SWATHI",
+  "dob": "07-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170460",
+  "name": "KARAMPUDI LAHARI",
+  "dob": "07-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170461",
+  "name": "GOSU LIKHITHA",
+  "dob": "08-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170462",
+  "name": "MARUKURTHI SANTHOSH LAKSHMI",
+  "dob": "08-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170463",
+  "name": "DOKKADI PRAVEEN",
+  "dob": "10-06-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170464",
+  "name": "IRLA KASI KALYAN",
+  "dob": "11-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170465",
+  "name": "POKURI NAGA MANEENDRA",
+  "dob": "12-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170466",
+  "name": "DANTA JEEVAN SAI",
+  "dob": "12-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170467",
+  "name": "KESANAKURTHI VIJAYA DURGA KAMESH",
+  "dob": "14-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170468",
+  "name": "KARANAM LAKSHMI",
+  "dob": "15-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170470",
+  "name": "KANDE VAMSIKRISHNA",
+  "dob": "15-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170471",
+  "name": "MAJJI JAGADEESH",
+  "dob": "15-06-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170472",
+  "name": "NADUPURI ANNAMNAIDU",
+  "dob": "15-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170473",
+  "name": "VADDIPALLI MOUNIKA",
+  "dob": "15-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170474",
+  "name": "GONDU RAKESH",
+  "dob": "16-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170475",
+  "name": "DONTHAMSETTI LAKSHMI PARVATHI",
+  "dob": "16-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170476",
+  "name": "KONDALA GOUTHAM",
+  "dob": "16-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170477",
+  "name": "POLIREDDY GANGA",
+  "dob": "17-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170479",
+  "name": "PITHANI PRIYANKA",
+  "dob": "18-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170480",
+  "name": "KATAPALLI YERNI KUMARI",
+  "dob": "20-06-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170481",
+  "name": "ALLU HARSHAVARDHAN",
+  "dob": "21-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170482",
+  "name": "VAJJA VINODKUMAR",
+  "dob": "21-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170483",
+  "name": "GUDIVADA PUSHPA",
+  "dob": "22-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170484",
+  "name": "KAKARLA AVULA RAJU",
+  "dob": "22-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170485",
+  "name": "NAGALLA SHIVA KUMAR",
+  "dob": "24-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170486",
+  "name": "ARJA PHEBEA",
+  "dob": "25-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170487",
+  "name": "VADDI VIBHAKAR",
+  "dob": "25-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170488",
+  "name": "BONU MOUNIKA",
+  "dob": "25-06-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170489",
+  "name": "MEESALA KANCHANA MAHESWARI",
+  "dob": "25-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170490",
+  "name": "BONTHU BHAVANA",
+  "dob": "19-10-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170491",
+  "name": "CHOPPALA HEPSIBHA",
+  "dob": "26-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170492",
+  "name": "VATTAM SAI GANESH",
+  "dob": "27-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170493",
+  "name": "PUTSALA JYOTHI SRI",
+  "dob": "28-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170494",
+  "name": "KARUPALLI SATHWIKA",
+  "dob": "29-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170495",
+  "name": "MORU GIRIJA TULASI",
+  "dob": "29-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170496",
+  "name": "BOKKA SATYA VEERA VENKATA NAGA DURGA",
+  "dob": "29-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170497",
+  "name": "TAMANAM SASIKALA",
+  "dob": "30-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170498",
+  "name": "MADDALA RAMYA",
+  "dob": "30-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170499",
+  "name": "POLAKI SRAVANI",
+  "dob": "01-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170500",
+  "name": "YEGATELA CHIRU DEEP",
+  "dob": "03-07-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170501",
+  "name": "JALADI PAVANI",
+  "dob": "09-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170502",
+  "name": "BALE DWARAKA",
+  "dob": "12-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170504",
+  "name": "VANUM JAGADISH",
+  "dob": "14-07-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170505",
+  "name": "LAVETI SRINU",
+  "dob": "15-07-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170506",
+  "name": "KOMMANA VENKATESH",
+  "dob": "15-07-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170507",
+  "name": "JONNALAGADDA SANGEETHA",
+  "dob": "26-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170508",
+  "name": "YENNI SAITEJA",
+  "dob": "15-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170509",
+  "name": "PILLI PRAVEEN KUMAR",
+  "dob": "15-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170510",
+  "name": "YANDA SAITHARUN",
+  "dob": "15-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170511",
+  "name": "PRAGADA TEJESWARARAO",
+  "dob": "16-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170513",
+  "name": "DARAPU PUSHPALATHA",
+  "dob": "16-07-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170514",
+  "name": "PALLI SANTOSH KUMAR",
+  "dob": "16-07-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170515",
+  "name": "GUTTULA BHARGAVI",
+  "dob": "17-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170516",
+  "name": "JAMANA PAVITRA",
+  "dob": "17-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170517",
+  "name": "MAMIDISETTI SRI RAMA SAINADH",
+  "dob": "18-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170518",
+  "name": "GUDURU KHASIM",
+  "dob": "18-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170519",
+  "name": "BORA NEELAM NAIDU",
+  "dob": "20-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170520",
+  "name": "ARASADA ANEEL",
+  "dob": "21-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170521",
+  "name": "GUTHI MADHU PRIYA",
+  "dob": "22-07-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170522",
+  "name": "DADI LAVANYA",
+  "dob": "24-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170523",
+  "name": "PATTIMI CHAITANYA",
+  "dob": "24-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170524",
+  "name": "ARANGI DHARANI",
+  "dob": "24-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170525",
+  "name": "APARNA PETTA",
+  "dob": "04-09-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170526",
+  "name": "HANUMANTHU YUGANDHAR",
+  "dob": "25-07-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170528",
+  "name": "DORA SRAVANI",
+  "dob": "27-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170529",
+  "name": "MEEGADA DINESH",
+  "dob": "27-07-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170530",
+  "name": "POONDLA SUKUMAR",
+  "dob": "30-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170531",
+  "name": "MADDALA VEERA VENKATA NOOKESH",
+  "dob": "02-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170532",
+  "name": "KOTA JAGADEESH",
+  "dob": "04-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170533",
+  "name": "CHELLUBOINA SAI PRIYA",
+  "dob": "05-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170534",
+  "name": "RAMISETTY VINEELA",
+  "dob": "05-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170535",
+  "name": "MOHAMMAD NAFROOZ",
+  "dob": "07-08-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N170536",
+  "name": "MENDA JYOTHI",
+  "dob": "08-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170537",
+  "name": "LENKA PAVANI",
+  "dob": "09-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170538",
+  "name": "KARRI VENKATA ABHINAV",
+  "dob": "10-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170539",
+  "name": "GOTTAPU SRAVANI",
+  "dob": "10-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170540",
+  "name": "PERAM NAGA BHAVANI",
+  "dob": "10-08-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N170541",
+  "name": "GUDIVADA RAMALAKSHMI",
+  "dob": "11-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170542",
+  "name": "SHAIK HAPSANA",
+  "dob": "12-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170543",
+  "name": "SHAIK FAKRUNNISA",
+  "dob": "12-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170544",
+  "name": "GEDDADA UMA SATYA MOUNIKA",
+  "dob": "12-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170545",
+  "name": "JAGARAPU SINDHUJA",
+  "dob": "14-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170546",
+  "name": "KONETI MANASA",
+  "dob": "09-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170547",
+  "name": "BOMMI DEVIPRIYA",
+  "dob": "15-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170548",
+  "name": "RONGALI VENKATESWARA NAGA TEJA",
+  "dob": "16-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170549",
+  "name": "MALLELA GANESH",
+  "dob": "16-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170550",
+  "name": "KADAKATLA HYMA",
+  "dob": "17-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170551",
+  "name": "CHAMANA SRAVANI",
+  "dob": "12-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170552",
+  "name": "MOHAMMED MEHIRUNNISA",
+  "dob": "19-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170553",
+  "name": "CHINNALA SRAVANI",
+  "dob": "21-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170554",
+  "name": "BENDI KALYANI",
+  "dob": "21-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170555",
+  "name": "POLISETTY BALA CHINNAIAH",
+  "dob": "21-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170556",
+  "name": "VANKALA GOVINDA PADMAVATHI",
+  "dob": "21-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170557",
+  "name": "BANDARU ISWARYA",
+  "dob": "22-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170558",
+  "name": "SHEIK BASHEERA BEGUM",
+  "dob": "23-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170560",
+  "name": "MACHAVARAPU V V KRISHNA BHANUPRAKASH",
+  "dob": "24-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170561",
+  "name": "BEERAKA NAGA VEERA SAI PRASAD",
+  "dob": "25-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170562",
+  "name": "SETTI SAIKRISHNA",
+  "dob": "26-08-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170563",
+  "name": "KANURI RAVI SUDHEER",
+  "dob": "27-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170564",
+  "name": "PATINI BHANU PRASAD",
+  "dob": "28-08-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170565",
+  "name": "KANOORI SUMANTH",
+  "dob": "29-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170566",
+  "name": "VISSAKOTI LIKHITHA BHAVANA",
+  "dob": "29-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170567",
+  "name": "PENTAKOTA JAYARAM KIRAN",
+  "dob": "30-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170568",
+  "name": "SUREDDI ANJALI",
+  "dob": "30-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170569",
+  "name": "LANKA SUKANYA",
+  "dob": "30-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170570",
+  "name": "VENTAPALLI DURGADEVI",
+  "dob": "31-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170571",
+  "name": "KUKKALA EMEMA",
+  "dob": "22-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170572",
+  "name": "BODDOJU V.N.S.L.THANMAI",
+  "dob": "11-09-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170576",
+  "name": "SHAIK JASMIN",
+  "dob": "15-10-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170577",
+  "name": "NAKKA CHAITANYA",
+  "dob": "21-10-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170578",
+  "name": "PAGOLU NAVYA",
+  "dob": "29-10-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170579",
+  "name": "KAGITALA RUPASREE",
+  "dob": "04-11-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170580",
+  "name": "MOLLI SRILAKSHMI",
+  "dob": "04-11-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170581",
+  "name": "SIRASANAGANDLA SAILAJA",
+  "dob": "15-11-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170582",
+  "name": "VEMANABOINA BHAVANI",
+  "dob": "01-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170583",
+  "name": "KAVADANA VAMSI",
+  "dob": "12-03-2000",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170584",
+  "name": "VANAPALLI YASWANTH KUMAR",
+  "dob": "04-07-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170585",
+  "name": "PEDDIMSETTI VISALAKSHI",
+  "dob": "08-08-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170586",
+  "name": "DEVI CHODIPILLI",
+  "dob": "06-09-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170587",
+  "name": "KORANGI PRAMEELA",
+  "dob": "12-09-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170588",
+  "name": "CHINTHA SRIKAMALA",
+  "dob": "13-09-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170589",
+  "name": "KARRI SAI KRISHNA",
+  "dob": "29-09-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170591",
+  "name": "KANURI DURGA SANDEEP",
+  "dob": "21-11-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170592",
+  "name": "SEEMA MOUNIKA",
+  "dob": "14-01-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170593",
+  "name": "BISSAI VISWANADHAM",
+  "dob": "05-02-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170594",
+  "name": "HAMSAVATH NARAHARI NAIK",
+  "dob": "17-03-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170595",
+  "name": "DUVVADA ASHA JYOTHI",
+  "dob": "21-03-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170596",
+  "name": "VARADA NAGENDRA BABU",
+  "dob": "03-04-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170597",
+  "name": "SIGINAM KEERTHI",
+  "dob": "25-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170598",
+  "name": "ALLAKA SUNITHA",
+  "dob": "07-05-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170599",
+  "name": "CHEERAPA BANGARU RAJU",
+  "dob": "15-05-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170600",
+  "name": "BOLLA NAGA ANUSHA",
+  "dob": "26-05-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170601",
+  "name": "KANDIBOYINA NAVYA SWARAJ",
+  "dob": "26-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170602",
+  "name": "ARUNA DARLA",
+  "dob": "15-06-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170603",
+  "name": "TALACHENDRI RAMANABABU",
+  "dob": "23-06-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170604",
+  "name": "MAMIDI JAYANTH",
+  "dob": "06-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170606",
+  "name": "POLAMURI CHAITANYA",
+  "dob": "14-07-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170607",
+  "name": "MOHAMMAD RASUL BABU",
+  "dob": "23-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170608",
+  "name": "GUDALA DURGA PRASAD",
+  "dob": "26-07-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170609",
+  "name": "JAKKA JAYARAM",
+  "dob": "03-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170610",
+  "name": "RAYUDU MANIKANTA KARTHIK",
+  "dob": "11-08-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170611",
+  "name": "GOLI PAVANSANKAR",
+  "dob": "21-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170612",
+  "name": "BELLAMKONDA YASWANTH",
+  "dob": "27-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170613",
+  "name": "TONANGI BHASKARA RAO",
+  "dob": "28-08-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170614",
+  "name": "KAKI GAYITHRI",
+  "dob": "05-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170615",
+  "name": "PALAPARTHI PAVAN TEJA",
+  "dob": "18-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170616",
+  "name": "MIDDE JYOTHI SWARUPINI",
+  "dob": "27-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170617",
+  "name": "BALLA SAI NAGA LAKSHMI DIVYA",
+  "dob": "29-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170618",
+  "name": "KONETI VENKATA BHAVANI VEERRAJU",
+  "dob": "17-10-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170619",
+  "name": "MADDALA PUJA",
+  "dob": "21-10-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170620",
+  "name": "BANDI PRATHYUSHA",
+  "dob": "03-11-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170622",
+  "name": "MUNUPARTHI VINAY PRAKASH KUMAR",
+  "dob": "21-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170623",
+  "name": "ONTIPULI KALYAN",
+  "dob": "22-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170624",
+  "name": "KAGITA MIDHUN CHAKRAVARTHI",
+  "dob": "25-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170625",
+  "name": "TADISETTI RATNA KUMARI",
+  "dob": "25-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170626",
+  "name": "TADI SWAMUEL",
+  "dob": "11-12-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170627",
+  "name": "BALLA TANUJA",
+  "dob": "12-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170628",
+  "name": "KATIKADALA VIDYA",
+  "dob": "14-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170629",
+  "name": "VAKA BHARGAV",
+  "dob": "18-12-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170630",
+  "name": "KALAGATLA CHINABABU",
+  "dob": "21-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170631",
+  "name": "DUNNA SRIRAM",
+  "dob": "27-12-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170632",
+  "name": "PITHANI SAI HARSHAVARDHAN",
+  "dob": "01-01-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170633",
+  "name": "JAGU TATA RAO",
+  "dob": "28-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170634",
+  "name": "KUTIKUPPALA DIVYA BHARATHI",
+  "dob": "15-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170635",
+  "name": "ANUSURI CHINNI",
+  "dob": "15-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170636",
+  "name": "PULIDINDI MADHUBABU",
+  "dob": "16-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170637",
+  "name": "GUTHULA ANITHA",
+  "dob": "19-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170638",
+  "name": "JAKKA CHANDU",
+  "dob": "01-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170639",
+  "name": "SYED ASMA",
+  "dob": "24-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170640",
+  "name": "PAPPALA JHANSI",
+  "dob": "17-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170641",
+  "name": "JAKKAMSETTY KAVYA",
+  "dob": "21-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170642",
+  "name": "SHAIK MEERA",
+  "dob": "03-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170643",
+  "name": "PEDADA LAKSHMINARAYANA",
+  "dob": "03-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170644",
+  "name": "PENUGADI KESAVA",
+  "dob": "19-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170646",
+  "name": "PEETHA KAVYA",
+  "dob": "16-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170647",
+  "name": "CHINTAPALLI MANIKANTA",
+  "dob": "19-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170648",
+  "name": "KOPPADA KRISHNA VAMSI",
+  "dob": "02-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170649",
+  "name": "PASUPULETI VEERA NAGA DIVYA",
+  "dob": "04-06-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N170650",
+  "name": "KONA MOUNIKA",
+  "dob": "04-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170651",
+  "name": "DADALA ESTHER RANI",
+  "dob": "04-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170652",
+  "name": "KOLLABATHULA RAJI JEEVAN KUMAR",
+  "dob": "15-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170653",
+  "name": "GUGGILAPU SAIRAJU",
+  "dob": "15-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170654",
+  "name": "GANUPALLI PAVANI",
+  "dob": "17-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170655",
+  "name": "PULIDINDI SIVA SANKARA REDDY",
+  "dob": "20-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170656",
+  "name": "PARUSU SAMBASIVA",
+  "dob": "02-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170657",
+  "name": "BUSI ANUJENEESHA",
+  "dob": "09-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170659",
+  "name": "BAGADI RAMAKRISHNA",
+  "dob": "15-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170660",
+  "name": "SIMBOTHU SUNAYANA",
+  "dob": "01-10-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170661",
+  "name": "IPPARTHI BALARAJU",
+  "dob": "14-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170662",
+  "name": "BANNARAVURI POOJA",
+  "dob": "01-06-2001",
+  "branch": "PUC"
+ },
+ {
+  "id": "N170663",
+  "name": "BALLA SUNNYLIKHITH",
+  "dob": "25-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170664",
+  "name": "MUTYALAPALLI V L BHAVANI SRIVASAVI",
+  "dob": "25-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170665",
+  "name": "CHINTHAKANI PRIYANKA",
+  "dob": "16-10-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170666",
+  "name": "YADALA DEEPTHI",
+  "dob": "02-12-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170667",
+  "name": "CHINNIPALLI SHIVA",
+  "dob": "26-08-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170668",
+  "name": "CHILAKA RAJANI PRIYA",
+  "dob": "19-03-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170669",
+  "name": "SHAIK SOFIA PARVEEN",
+  "dob": "11-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170670",
+  "name": "PALLI DIVYA SWAPNA",
+  "dob": "13-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170671",
+  "name": "GUTTALA PRAVEEN",
+  "dob": "16-04-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170672",
+  "name": "BODDU LENIN",
+  "dob": "22-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170673",
+  "name": "GOLLAPALLI SONY",
+  "dob": "16-06-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N170674",
+  "name": "SHAIK IRFAN",
+  "dob": "02-08-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170675",
+  "name": "SHAIK ALMAS",
+  "dob": "17-10-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170676",
+  "name": "PONNAPALLI MOUNIKA",
+  "dob": "16-12-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170677",
+  "name": "EEVANA ESWARA VENKATA RAO",
+  "dob": "12-04-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170678",
+  "name": "KOSURI RAJ KUMAR",
+  "dob": "15-08-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170679",
+  "name": "PANCHIREDDI MOUNIKA",
+  "dob": "04-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170680",
+  "name": "TIRUKOTI SATISH",
+  "dob": "07-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170681",
+  "name": "MOGALU DURGA PRASAD",
+  "dob": "10-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170682",
+  "name": "MOKA SUSMITHA",
+  "dob": "06-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170683",
+  "name": "SHAIK NOORHASAN",
+  "dob": "19-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170684",
+  "name": "KUMPATI MRUDULA",
+  "dob": "24-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170685",
+  "name": "KILLO VENKATA MURTHY",
+  "dob": "28-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170686",
+  "name": "SHAIK SHABEENA",
+  "dob": "23-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170687",
+  "name": "SHAIK SUBHANI",
+  "dob": "30-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170688",
+  "name": "PAMULA VASU",
+  "dob": "07-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170689",
+  "name": "GADDAM CHANDRA BHANU",
+  "dob": "10-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170690",
+  "name": "ANDUGALA RAJIVRATNA MANOHAR",
+  "dob": "12-05-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170691",
+  "name": "MOKA HARATHI",
+  "dob": "17-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170692",
+  "name": "ALURI PRAVALLIKA",
+  "dob": "08-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170693",
+  "name": "PARAMATA CHANDINI",
+  "dob": "16-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170694",
+  "name": "ALUGU JOEL BRELSON",
+  "dob": "27-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170695",
+  "name": "MAJJI DIVYA KUMAR",
+  "dob": "01-06-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170696",
+  "name": "JALLI SRILATHA",
+  "dob": "29-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170697",
+  "name": "SHAIK ABIBUNNISA",
+  "dob": "26-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170698",
+  "name": "SHAIK SAIDABI",
+  "dob": "28-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170699",
+  "name": "TAMANAM ASHA",
+  "dob": "28-10-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170700",
+  "name": "DARA GREESHMA NARAYANA",
+  "dob": "16-01-2003",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170701",
+  "name": "TAMALAPAKULA ANURADHA",
+  "dob": "27-12-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170702",
+  "name": "SHAIK SHAFIYA",
+  "dob": "25-02-2001",
+  "branch": "PUC"
+ },
+ {
+  "id": "N170703",
+  "name": "ZAREENA",
+  "dob": "02-04-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170704",
+  "name": "GANGARAPU SUNILKUMAR",
+  "dob": "19-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170705",
+  "name": "BADANA VAMSI",
+  "dob": "01-10-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170706",
+  "name": "TIRUVEEDULA KEERTHI",
+  "dob": "15-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170707",
+  "name": "MALLAVARAPU GIRIJA",
+  "dob": "16-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170709",
+  "name": "MAMIDI LAL GANESH",
+  "dob": "27-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170710",
+  "name": "PALLETI SOWJANYA",
+  "dob": "05-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170711",
+  "name": "PALLAVI AMPILI",
+  "dob": "06-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170712",
+  "name": "PERIKALA VINOD KUMAR",
+  "dob": "16-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170713",
+  "name": "PENUMAKA CHINA VENKATRAO",
+  "dob": "17-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170714",
+  "name": "YALLAMELLI MOUNIKA",
+  "dob": "15-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170715",
+  "name": "KALTERPA VENKATALAKSHMAN",
+  "dob": "20-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170717",
+  "name": "SHAIK MAHABOOB SHARIEF",
+  "dob": "26-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170718",
+  "name": "REGULAGADDA RAMYASRI",
+  "dob": "27-03-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170719",
+  "name": "PAIDIMALLA PRIYANKA",
+  "dob": "13-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170720",
+  "name": "SHAIK MANSUD",
+  "dob": "17-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170721",
+  "name": "NALAMATI SINDHU",
+  "dob": "26-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170722",
+  "name": "KURATI SRAVANI",
+  "dob": "20-11-2000",
+  "branch": "NP"
+ },
+ {
+  "id": "N170723",
+  "name": "PALLEPOGU VAMSI",
+  "dob": "24-12-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170724",
+  "name": "T KUSUMAVATHI",
+  "dob": "07-01-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170725",
+  "name": "SHAIK RIYAZ",
+  "dob": "24-04-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170726",
+  "name": "BERI DINESH",
+  "dob": "01-06-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170727",
+  "name": "NETHALA LEELA MOHAN",
+  "dob": "21-07-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170728",
+  "name": "SARAGULA SRESHTA",
+  "dob": "07-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170729",
+  "name": "SHAIK RAMJAN BI",
+  "dob": "19-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170731",
+  "name": "PEDDI BHUVANA SANDHYA",
+  "dob": "20-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170732",
+  "name": "MERUGUMALA LYDIA",
+  "dob": "20-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170733",
+  "name": "THOLETI NAVEEN KUMAR",
+  "dob": "22-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170734",
+  "name": "KANDULA ANUSHA",
+  "dob": "02-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170735",
+  "name": "SAYALA KALYANI",
+  "dob": "02-05-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170736",
+  "name": "KILANI BAHUGUNA SWARNA BHARATHI",
+  "dob": "21-08-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170737",
+  "name": "DEVUPALLI PRADEEP KUMAR",
+  "dob": "05-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170738",
+  "name": "TUMMALAPALLI GAYATHRI SWARNAMUKHI",
+  "dob": "16-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170739",
+  "name": "VANGEPURAM JYOTSNA",
+  "dob": "25-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170740",
+  "name": "NAMBURI GAYATRI",
+  "dob": "03-03-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170741",
+  "name": "ARAVAPALLI NIKITHA",
+  "dob": "19-06-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170742",
+  "name": "JADA JOSEPH",
+  "dob": "23-04-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N170743",
+  "name": "ROKKALA SUBHASH",
+  "dob": "05-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170744",
+  "name": "BEJJAM JAYA PRAKASH",
+  "dob": "09-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170745",
+  "name": "KINTHADA SRAVANI",
+  "dob": "18-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170746",
+  "name": "THADURU YAGNA SRI",
+  "dob": "07-02-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170747",
+  "name": "NAKKA NARASIMHA RAO",
+  "dob": "05-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170748",
+  "name": "KOTA JASWANTH",
+  "dob": "20-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170749",
+  "name": "MADIKI DIVYA SRI",
+  "dob": "10-05-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170750",
+  "name": "NELA PRAHARSHITA",
+  "dob": "01-06-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170752",
+  "name": "MANDAPATI GAYATRI",
+  "dob": "26-07-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170753",
+  "name": "CHOPPALA MALINI",
+  "dob": "20-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170754",
+  "name": "VENNAPU JEEVAN BABU",
+  "dob": "22-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170756",
+  "name": "BHAVANI EEPURU",
+  "dob": "04-03-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170757",
+  "name": "JANIPELLA SIVAJI",
+  "dob": "20-04-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170758",
+  "name": "THANGIRALA SHINY",
+  "dob": "03-11-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170759",
+  "name": "GARIKAMUKKU MANOJ",
+  "dob": "05-12-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170760",
+  "name": "REVU BHARATH KIRAN",
+  "dob": "10-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170761",
+  "name": "BOLLEDDULA SUNIL KUMAR",
+  "dob": "06-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170762",
+  "name": "DAKE SUMA HEPSIBA",
+  "dob": "17-11-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170763",
+  "name": "MYCHERLA NAVEEN",
+  "dob": "06-01-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170764",
+  "name": "PATHAPALLI NAVEEN",
+  "dob": "02-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170765",
+  "name": "MANUPATI NAVEEN",
+  "dob": "03-04-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N170766",
+  "name": "NALATHATI KEERTHI PRIYA",
+  "dob": "07-10-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170767",
+  "name": "SARASANAPALLI DURGAPRASAD DORA",
+  "dob": "26-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170768",
+  "name": "RANGAPPA SAIPRIYA",
+  "dob": "07-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170769",
+  "name": "MEGHAVATHU DURGA PRASAD NAIK",
+  "dob": "13-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170772",
+  "name": "GORREPATI JHANSI",
+  "dob": "09-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170773",
+  "name": "NISSANKARA SRIKALA",
+  "dob": "28-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170774",
+  "name": "JARUGUMALLI PRABHU KUMAR",
+  "dob": "09-01-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170775",
+  "name": "BOTLA SAKESH",
+  "dob": "05-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170776",
+  "name": "MANUPATI BHANU SRI",
+  "dob": "07-06-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170777",
+  "name": "VATTI BHANUSHANKAR REDDY",
+  "dob": "05-05-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170778",
+  "name": "AKANAMBATTU SHANIL KUMAR",
+  "dob": "16-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170779",
+  "name": "VETAGIRI TEJASRI",
+  "dob": "27-04-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170780",
+  "name": "PULIGONDRAM JEMIMA",
+  "dob": "22-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170781",
+  "name": "MUNAGALA SAI DHARANI",
+  "dob": "07-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170782",
+  "name": "BANDA LEELA KRISHNA",
+  "dob": "16-06-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170783",
+  "name": "PATTI DHARMAVATHI",
+  "dob": "22-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170784",
+  "name": "VASI SREEJA",
+  "dob": "21-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170785",
+  "name": "MEGAVATH MAHESH NAIK",
+  "dob": "14-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170786",
+  "name": "BANDI SANDEEP",
+  "dob": "02-07-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170787",
+  "name": "BHUKYA MANOHAR GOPI NAYAK",
+  "dob": "02-08-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170788",
+  "name": "LAMANI RAJESWARI",
+  "dob": "18-08-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170789",
+  "name": "VADETHE NAVEEN NAIK",
+  "dob": "20-10-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N170790",
+  "name": "KATTHI MALLESWARI",
+  "dob": "05-06-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170791",
+  "name": "AKKILIGUNTA RAKESH",
+  "dob": "05-12-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170792",
+  "name": "KATTA SRAVANI",
+  "dob": "05-12-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170793",
+  "name": "BANAVATHU PRAVALLIKA",
+  "dob": "29-12-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N170794",
+  "name": "KOJJA ANJANEYULU",
+  "dob": "01-01-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170795",
+  "name": "MAMMUGALLA VENKATESH",
+  "dob": "18-01-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170797",
+  "name": "MEKALA KAVYA",
+  "dob": "15-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170798",
+  "name": "BILLUPATI SREEKANTH",
+  "dob": "09-04-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170799",
+  "name": "VANAMA GOPI",
+  "dob": "17-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170800",
+  "name": "DATLA GIRISH SAI VARMA",
+  "dob": "11-06-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170801",
+  "name": "SHAIK SAMEER",
+  "dob": "19-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170802",
+  "name": "CHIPPALAMADUGU GANGADHAR",
+  "dob": "24-04-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170803",
+  "name": "AVULA HARSHA VARDHAN",
+  "dob": "29-04-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170804",
+  "name": "GIDDALURU SAI",
+  "dob": "30-04-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170805",
+  "name": "POTTA UDAY KUMAR",
+  "dob": "03-05-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170806",
+  "name": "CHINTALA MOHANKRISHNA",
+  "dob": "03-05-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170807",
+  "name": "JANJARAPU VEENA NISSIKA",
+  "dob": "18-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170809",
+  "name": "PAMIDI MOHAMMAD SOHAIL",
+  "dob": "15-05-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170810",
+  "name": "MUDUNURI SAI SARANYA",
+  "dob": "06-11-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170811",
+  "name": "THOTAKURA PRASANTHI",
+  "dob": "23-06-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170812",
+  "name": "PURAM SNIGDHA",
+  "dob": "17-05-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170813",
+  "name": "SHABOLU SUDHA RANI",
+  "dob": "21-08-2000",
+  "branch": "PUC"
+ },
+ {
+  "id": "N170814",
+  "name": "K P SAI KIRAN",
+  "dob": "23-05-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170816",
+  "name": "MUKITI SANDEEP",
+  "dob": "30-05-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170817",
+  "name": "VARA PRASAD BHUKYA",
+  "dob": "02-06-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170818",
+  "name": "SHANMUKHI MADHURI",
+  "dob": "18-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170819",
+  "name": "GUNJA VENKATA SAI BINDU",
+  "dob": "07-06-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170820",
+  "name": "VADADA VENKATA VIJAYA BHASKAR",
+  "dob": "14-01-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170821",
+  "name": "USARTHI SRINIVASU",
+  "dob": "12-06-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170823",
+  "name": "MANDEM MANI PRATHAP",
+  "dob": "16-06-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170824",
+  "name": "KONDURI YOGA NANDINI",
+  "dob": "08-11-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170825",
+  "name": "BHISETTI SHANTHI",
+  "dob": "16-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170826",
+  "name": "BHUKYA MANEESHA",
+  "dob": "20-01-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170827",
+  "name": "PICHHIGUNTLA RAJ KUMAR",
+  "dob": "25-06-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170828",
+  "name": "NUKANABOINA SAI GANESH",
+  "dob": "28-06-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170829",
+  "name": "BUDIPITI SHRUTHI",
+  "dob": "25-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170830",
+  "name": "KONDREDDY VEERA PRATHAP",
+  "dob": "02-07-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170831",
+  "name": "SUNDARAPALLI LAKSHMI",
+  "dob": "18-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170832",
+  "name": "NAKKINA STHUTHI",
+  "dob": "24-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170833",
+  "name": "SEELAM SAI PRAVEEN REDDY",
+  "dob": "29-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170834",
+  "name": "MAILAPILLI MAHESH",
+  "dob": "17-07-2001",
+  "branch": "PUC"
+ },
+ {
+  "id": "N170835",
+  "name": "SOMA KOUSHIK",
+  "dob": "20-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170836",
+  "name": "MADHU.D",
+  "dob": "21-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170837",
+  "name": "KURUVA SAI KUMAR",
+  "dob": "26-07-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170838",
+  "name": "BAVANNAGARI TEJASRI",
+  "dob": "27-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170839",
+  "name": "MOTAPOTHULA NAVEEN KUMAR",
+  "dob": "30-07-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170840",
+  "name": "KURUVA SHIVA PRASAD",
+  "dob": "01-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170841",
+  "name": "VENGALARAJU ANIL KUMAR",
+  "dob": "04-08-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170842",
+  "name": "LANKA NAGALAKSHMI",
+  "dob": "30-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170843",
+  "name": "BANDISELA SALMA",
+  "dob": "05-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170844",
+  "name": "PATTURI RAVIVARMA",
+  "dob": "06-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170845",
+  "name": "MOHAMMAD ASIF",
+  "dob": "06-08-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170846",
+  "name": "ROKKAM SUSMITHA",
+  "dob": "06-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170847",
+  "name": "PAIDIPALA NIKHILA",
+  "dob": "09-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170848",
+  "name": "CHUNCHULA LAKSHMI ARAVIND",
+  "dob": "10-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170850",
+  "name": "PALLALA GOWTHAM REDDY",
+  "dob": "15-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170851",
+  "name": "YALLAMMA GARI SAI PRIYA",
+  "dob": "16-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170852",
+  "name": "SHAIK TAHASIM",
+  "dob": "17-08-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170853",
+  "name": "BOYA PAVAN THEJA",
+  "dob": "20-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170854",
+  "name": "CHILAKALA NAVAZ",
+  "dob": "22-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170855",
+  "name": "MAMIDISETTI NAMRATHA",
+  "dob": "12-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170856",
+  "name": "MODEM RUPASRI",
+  "dob": "24-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170857",
+  "name": "NARE NIHARIKA",
+  "dob": "26-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170858",
+  "name": "SIRIVELLA JITHENDRA",
+  "dob": "30-08-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170859",
+  "name": "INTURI SRAVANTHI",
+  "dob": "26-08-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170860",
+  "name": "BATHULA DIVYA SREE",
+  "dob": "03-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170861",
+  "name": "KAMPA TRIVENI",
+  "dob": "02-11-2001",
+  "branch": "NP"
+ },
+ {
+  "id": "N170862",
+  "name": "ALLUGUNDU NISHANTH",
+  "dob": "05-09-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170863",
+  "name": "SHAIK NADEEM BASHA",
+  "dob": "05-09-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170864",
+  "name": "NAGALLA GANESH",
+  "dob": "05-09-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170865",
+  "name": "MALAVATHU VAISHNAVI",
+  "dob": "13-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170866",
+  "name": "SREERAM HARITHA",
+  "dob": "15-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170867",
+  "name": "ANDE MONIKA",
+  "dob": "16-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170869",
+  "name": "PALLA ROHITH GANGULY",
+  "dob": "20-09-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170870",
+  "name": "OBBU MUNI SAI BHARGAV",
+  "dob": "26-09-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170871",
+  "name": "DERANGULA PUNEETH KUMAR",
+  "dob": "28-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170872",
+  "name": "SHAIK DILSHAD",
+  "dob": "01-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170873",
+  "name": "SHAIK ALTHAF",
+  "dob": "10-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170874",
+  "name": "LAMBANI SRIKANTH",
+  "dob": "10-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170875",
+  "name": "BELLAPUKONDA UMA SATYAVATHI",
+  "dob": "28-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170876",
+  "name": "KURPA YASODHA SREE KUSUMA HARIKA",
+  "dob": "21-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170877",
+  "name": "BANDI PAVAN",
+  "dob": "14-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170878",
+  "name": "TUPPADA GURU SAI PRASHANTH",
+  "dob": "26-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170879",
+  "name": "PALLAPU SUSHMASREE",
+  "dob": "28-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170880",
+  "name": "BANAVATHU BHAVANA",
+  "dob": "29-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170881",
+  "name": "SHAIK ALIYA PARVEEN",
+  "dob": "02-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170882",
+  "name": "PANDITI MANASA",
+  "dob": "14-07-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170885",
+  "name": "MEGAVATH NIKHITHA BAI",
+  "dob": "16-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170886",
+  "name": "B A JAYAVARDHAN",
+  "dob": "21-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170887",
+  "name": "ADUSUMALLI GOPI KRISHNA",
+  "dob": "31-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170888",
+  "name": "DEGA VAMSI KRISHNA",
+  "dob": "27-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170890",
+  "name": "JADAV SRI DIVYA",
+  "dob": "03-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170891",
+  "name": "THIRUMALAPUDI HARITHA",
+  "dob": "03-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170892",
+  "name": "ANGAJALA RAJESWARI",
+  "dob": "04-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170893",
+  "name": "CHEKKA SIVA DEEPA",
+  "dob": "12-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170894",
+  "name": "CHINNINTI TULASI",
+  "dob": "15-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170895",
+  "name": "KAVATI KALYAN BABU",
+  "dob": "15-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170896",
+  "name": "BASANI MARY PRATHYUSHA",
+  "dob": "15-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170897",
+  "name": "PONNAPATI NITHIN",
+  "dob": "26-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170898",
+  "name": "PATHLAVATHU BALAJINAIK",
+  "dob": "26-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170899",
+  "name": "MUDDALA MAHA GANESH SAI PAVAN",
+  "dob": "06-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170900",
+  "name": "BATHINA VAMSI",
+  "dob": "28-12-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170901",
+  "name": "DANNURI ACHYUTHA KAVYA",
+  "dob": "06-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170902",
+  "name": "KURRA RANGA NAIK",
+  "dob": "12-01-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170903",
+  "name": "TEJESH GODA",
+  "dob": "12-12-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170904",
+  "name": "YENUMULA PHANI MANOHAR",
+  "dob": "11-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170905",
+  "name": "KODURU NIKHILESWAR",
+  "dob": "18-01-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170907",
+  "name": "PULI SWETHA",
+  "dob": "19-01-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170908",
+  "name": "POLANKI KAVYA",
+  "dob": "22-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170909",
+  "name": "BATHULA CHARAN TEJA",
+  "dob": "30-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170910",
+  "name": "YEGILISETTY SRAVANTHI",
+  "dob": "24-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170911",
+  "name": "KUNIREDDY MOUNIKA",
+  "dob": "31-01-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170912",
+  "name": "NARESH RAJANA",
+  "dob": "09-04-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170913",
+  "name": "SARELLA SNEHASRI",
+  "dob": "27-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170914",
+  "name": "MALOTHU NIKHIL RAJA NAIK",
+  "dob": "06-02-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170917",
+  "name": "ERUSHALEM BHUKYA",
+  "dob": "12-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170918",
+  "name": "BUCHIPALLI SAROOPYA",
+  "dob": "13-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170919",
+  "name": "PAMU NIKHILA",
+  "dob": "16-02-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170920",
+  "name": "URUMALA JAWAHAR CHANDRADEEP",
+  "dob": "18-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170921",
+  "name": "JALLA JEEVAN KUMAR",
+  "dob": "20-02-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170922",
+  "name": "VALLAM NEERAJA",
+  "dob": "23-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170923",
+  "name": "NALLAGONDA SIREESHA",
+  "dob": "26-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170924",
+  "name": "DEESARI MANI",
+  "dob": "09-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170925",
+  "name": "NALLAMEKALA JAHNAVI",
+  "dob": "09-03-2002",
+  "branch": "PUC"
+ },
+ {
+  "id": "N170927",
+  "name": "MOHAMMED REHANA BEGUM",
+  "dob": "27-08-2001",
+  "branch": "PUC"
+ },
+ {
+  "id": "N170928",
+  "name": "GORLA SHRI VARDHAN",
+  "dob": "15-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170929",
+  "name": "GAJULAPALLI PADMAVATHI BAI",
+  "dob": "15-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170930",
+  "name": "SUGALI BALAJI NAIK",
+  "dob": "30-03-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170931",
+  "name": "SHAIK KARISHMA",
+  "dob": "26-08-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170932",
+  "name": "NAIDUKUPPAM DEENA",
+  "dob": "01-04-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170934",
+  "name": "DEVARAPALLI HEMANTH KUMAR",
+  "dob": "01-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170935",
+  "name": "MADAKAM KUSUMA JYOTHI",
+  "dob": "11-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170936",
+  "name": "MACHAGIRI SYAMRAJ",
+  "dob": "21-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170937",
+  "name": "NANDIMANDALAM BHARATH KUMAR",
+  "dob": "12-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170938",
+  "name": "ANANTHA JEEVAN PRAKASH",
+  "dob": "31-05-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170939",
+  "name": "LINGAM SATHWIK",
+  "dob": "26-03-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170940",
+  "name": "KUCHI SAI RAVEENDRA",
+  "dob": "13-11-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170942",
+  "name": "MULA MANOJ KUMAR REDDY",
+  "dob": "03-08-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170943",
+  "name": "KALISETTI CHANDRA SEKHAR",
+  "dob": "19-05-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170944",
+  "name": "THOTA AKASH",
+  "dob": "08-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170945",
+  "name": "DEVANA SIVA",
+  "dob": "09-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170946",
+  "name": "KARRI SAI KUMAR",
+  "dob": "26-06-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170948",
+  "name": "KOLA BALA RAMA KRISHNA",
+  "dob": "17-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170949",
+  "name": "KOTIPALLI SHANMUKHA SURESH",
+  "dob": "26-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170950",
+  "name": "MOGILI BHEEMA SHANKAR",
+  "dob": "23-12-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170951",
+  "name": "GANGASANI MADHUNANDAN REDDY",
+  "dob": "02-05-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170952",
+  "name": "PULAKHANDAM CHARANREDDY",
+  "dob": "13-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170953",
+  "name": "KATRU KUSUMANADH",
+  "dob": "09-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170954",
+  "name": "NARISE PAVAN KUMAR",
+  "dob": "28-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170956",
+  "name": "YALLA B V V SATYA PRASAD",
+  "dob": "02-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170957",
+  "name": "KOMMULA BALA VEERA VENKATA SIVA PRASAD",
+  "dob": "28-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170958",
+  "name": "AARE SAI CHARAN",
+  "dob": "15-09-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170960",
+  "name": "JYOTHULA ARJUNA RAO",
+  "dob": "01-05-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170961",
+  "name": "KUNDURU THIRUPATHI REDDY",
+  "dob": "03-06-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170962",
+  "name": "VASIPALLY SHIVAJI",
+  "dob": "03-06-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N170963",
+  "name": "MODALAVALASA APPALANAIDU",
+  "dob": "16-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170964",
+  "name": "KILLI KRISHNA MOHAN",
+  "dob": "27-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170965",
+  "name": "KONDAIGUNTA VAMSI",
+  "dob": "12-06-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170966",
+  "name": "KILLI KARTHIK",
+  "dob": "14-06-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170967",
+  "name": "PENKE ASRUTHACHARAN",
+  "dob": "30-07-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N170968",
+  "name": "ULLI KIRAN",
+  "dob": "06-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170969",
+  "name": "SHAIK ISMAIL",
+  "dob": "25-02-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170970",
+  "name": "VAKA LEELA KRISHNA",
+  "dob": "18-09-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N170971",
+  "name": "SHAIK MOHAMMAD AKRAM",
+  "dob": "08-04-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N170972",
+  "name": "LALAM SEKHAR",
+  "dob": "01-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170973",
+  "name": "MOHAMMAD IQBAL",
+  "dob": "22-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170974",
+  "name": "BANAVATH RAMU NAIK",
+  "dob": "02-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170976",
+  "name": "TANGULA JAYA PRAKASH",
+  "dob": "04-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170977",
+  "name": "KOTA BHARGAV",
+  "dob": "01-09-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170979",
+  "name": "MAJJI KRUPANANDAM",
+  "dob": "11-07-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N170980",
+  "name": "GURUVU SAI CHAITANYA KUMAR",
+  "dob": "13-10-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N170981",
+  "name": "TALARI SATHEESH KUMAR",
+  "dob": "09-02-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170982",
+  "name": "MUNTHA VENKATA SAI KARTHIKEYA",
+  "dob": "15-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170983",
+  "name": "KONDA BOINA YASHWANTH",
+  "dob": "16-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170984",
+  "name": "PAPUGARI VENKATA SAI CHARAN",
+  "dob": "05-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170985",
+  "name": "MONANGI JAGADEESH",
+  "dob": "08-07-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170986",
+  "name": "BOGGURU HEMANTH SAI",
+  "dob": "14-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170987",
+  "name": "CHALLA SASIKIRAN",
+  "dob": "05-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N170988",
+  "name": "SRI NAGA DATTATREYA NALAM",
+  "dob": "10-01-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170989",
+  "name": "PEDADA SAILOKESHWARA RAO",
+  "dob": "18-11-2003",
+  "branch": "ME"
+ },
+ {
+  "id": "N170990",
+  "name": "PALETY BOBBY",
+  "dob": "02-01-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170991",
+  "name": "RAGANI SIVAJI",
+  "dob": "30-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170992",
+  "name": "DARLA SURESH KUMAR",
+  "dob": "26-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170993",
+  "name": "NAIDUKUPPAM JASHUVA",
+  "dob": "06-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N170994",
+  "name": "KOYYA TEJA",
+  "dob": "12-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170995",
+  "name": "BUDAGAVI PRUTHVI TEJA",
+  "dob": "01-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170996",
+  "name": "KROTHA YASWANTH NITHIN",
+  "dob": "07-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170997",
+  "name": "KANUPURU VAMSIKRISHNA",
+  "dob": "22-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N170998",
+  "name": "BONGU SAI KIRAN",
+  "dob": "11-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N170999",
+  "name": "MADIGA RAJASEKHAR",
+  "dob": "24-03-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171000",
+  "name": "SHAIK ABDUL RIYAZ",
+  "dob": "17-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171001",
+  "name": "BINGI PAVAN KALYAN",
+  "dob": "15-07-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171002",
+  "name": "RENTIKOTA DURGAPRASAD",
+  "dob": "30-06-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171003",
+  "name": "KOLASANI GAUTAM SRIKAR",
+  "dob": "29-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171004",
+  "name": "KANAKALA YOGINI SIVA RAMALAKSHMI",
+  "dob": "13-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171005",
+  "name": "GORLE RISHITHA",
+  "dob": "30-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171006",
+  "name": "KOLAR SUCHITHKUMAR",
+  "dob": "26-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171007",
+  "name": "PONNANA RAM KUMAR",
+  "dob": "04-05-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171009",
+  "name": "PAPOLU MALLESWARI",
+  "dob": "10-04-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171010",
+  "name": "CHODISETTY V V SURYA SATYA TRINADH",
+  "dob": "07-02-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171011",
+  "name": "RATNALA VINEETH BHARGAV CHOWDARY",
+  "dob": "25-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171012",
+  "name": "PASUPULETI SIRI LAKSHMI",
+  "dob": "30-09-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171013",
+  "name": "MEDICHARLA ABHIJEET",
+  "dob": "12-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171014",
+  "name": "CHINTHA YASHWANT SAI",
+  "dob": "27-03-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171015",
+  "name": "PUCHALA BHANU VAISHNAVI",
+  "dob": "01-11-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171017",
+  "name": "KONDAKA NAGAMANI",
+  "dob": "14-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171018",
+  "name": "THAKKELLAPATI ASWINI",
+  "dob": "21-07-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171019",
+  "name": "ABBIREDDI SATYA GOWRI",
+  "dob": "15-08-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171020",
+  "name": "SIRIKI MOUNIKA",
+  "dob": "20-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171021",
+  "name": "POLAVARAPU BAVYAKA",
+  "dob": "22-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171023",
+  "name": "GATTI HEMA SAI LATHA",
+  "dob": "15-12-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171024",
+  "name": "SALA DHRUVA CHAND",
+  "dob": "16-03-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171025",
+  "name": "ALLAM DURGA PRASAD",
+  "dob": "28-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171027",
+  "name": "KOMARAGIRI SAI BHARGAV",
+  "dob": "29-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171028",
+  "name": "BANOTH KALYAN",
+  "dob": "05-08-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N171029",
+  "name": "GORAKA NAVEEN KUMAR",
+  "dob": "17-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171030",
+  "name": "VINNAMALA HEMANTH",
+  "dob": "18-08-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171031",
+  "name": "POTHULA VENKATA VIJAYA VAMSHI",
+  "dob": "03-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171032",
+  "name": "MADAKABOYINA SAI SUDHEER",
+  "dob": "02-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171033",
+  "name": "MEDAPATI ASHA DHARANI",
+  "dob": "08-03-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171034",
+  "name": "NADIMIMASEED SUHAIL",
+  "dob": "20-12-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N171036",
+  "name": "NADAVALA NAGA NIKHIL",
+  "dob": "13-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171037",
+  "name": "VANUKURU RAVI TEJA",
+  "dob": "28-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171038",
+  "name": "SHAIK ABDUL AZEEZ",
+  "dob": "13-08-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171039",
+  "name": "LODDU DEEPIKA",
+  "dob": "06-01-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171040",
+  "name": "PEDIREDLA SUJATHA",
+  "dob": "13-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171041",
+  "name": "PERAM KARTHIK REDDY",
+  "dob": "01-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171042",
+  "name": "YELUBANDI SHYAM VARA PRAVEEN",
+  "dob": "29-10-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171043",
+  "name": "JAKKAMPUDI NAGA BABU",
+  "dob": "31-05-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171044",
+  "name": "PULI JYOSHNA",
+  "dob": "20-11-2001",
+  "branch": "NP"
+ },
+ {
+  "id": "N171045",
+  "name": "BONDALAPATI SYAM MURALI",
+  "dob": "20-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171047",
+  "name": "BEERABOINA PRASAD",
+  "dob": "27-05-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171048",
+  "name": "VADDI SUJEETH",
+  "dob": "31-01-2003",
+  "branch": "ME"
+ },
+ {
+  "id": "N171049",
+  "name": "CHILKA SANJAY KUMAR",
+  "dob": "02-07-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N171050",
+  "name": "THUMMALURU MANOHAR",
+  "dob": "11-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171051",
+  "name": "VANTHALA VENKATA RAO",
+  "dob": "03-07-2000",
+  "branch": "NP"
+ },
+ {
+  "id": "N171052",
+  "name": "YANAMALA CHARAN SAI",
+  "dob": "09-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171053",
+  "name": "GUNTA SUMANTH",
+  "dob": "16-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171054",
+  "name": "GURRAM YASWANTH",
+  "dob": "10-06-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N171055",
+  "name": "YERRAMUDDA VENKATA SIVA REDDY",
+  "dob": "07-04-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171056",
+  "name": "DIVANI KUMARI PADHY",
+  "dob": "16-06-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N171058",
+  "name": "DUDDUPUDI YASASWINI SAI MANVITHA",
+  "dob": "07-11-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171059",
+  "name": "YENDRAPALLI SARITHA",
+  "dob": "09-07-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171060",
+  "name": "EARLA SAMPATH KUMAR",
+  "dob": "04-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171061",
+  "name": "SALADI SRINIVASU",
+  "dob": "20-06-2000",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171062",
+  "name": "CHEEMALADINNE VENKATA LAKSHMI",
+  "dob": "25-11-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171063",
+  "name": "KOTA BHAVYA",
+  "dob": "08-02-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171064",
+  "name": "JUPUDI PRASANNA",
+  "dob": "01-06-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171065",
+  "name": "BARAMA NAGA SIVA PRAVALLIKA",
+  "dob": "02-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171066",
+  "name": "KOTTHALA UMA MAHESWARI",
+  "dob": "12-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171067",
+  "name": "KOTA SRUTHI",
+  "dob": "08-03-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171068",
+  "name": "RAJULAPATI SRAVANI",
+  "dob": "08-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171069",
+  "name": "SUNKAVILLI GAYATRI",
+  "dob": "19-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171071",
+  "name": "KOGANTI SRAVANI",
+  "dob": "21-04-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171072",
+  "name": "BADIREDDY SAI VENKATA RAJU",
+  "dob": "10-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171073",
+  "name": "TALASILA NAGA SRIVANI",
+  "dob": "09-05-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171074",
+  "name": "MAJJI PAVANI",
+  "dob": "13-11-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171075",
+  "name": "SANIGANDLA RAMA KRISHNA",
+  "dob": "26-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171076",
+  "name": "KANTA NITHISH",
+  "dob": "29-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171077",
+  "name": "SANAKA VIJAYA LAKSHMI",
+  "dob": "27-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171078",
+  "name": "KOCHERLA JAHNAVI",
+  "dob": "26-01-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171079",
+  "name": "SAYYAD NAEEM AHMED",
+  "dob": "29-03-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N171080",
+  "name": "BILLA RAGHAVA",
+  "dob": "26-07-2000",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171081",
+  "name": "KANTA RANGA BHARGAV",
+  "dob": "06-10-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N171082",
+  "name": "SUDULA CHARAN SAI",
+  "dob": "06-12-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171083",
+  "name": "MULUKUTLA PARIMALA SAI LAKSHMI",
+  "dob": "09-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171084",
+  "name": "NALLA RAM PRATAP CHANDU",
+  "dob": "14-12-2000",
+  "branch": "ME"
+ },
+ {
+  "id": "N171085",
+  "name": "VADLAPUDI MEGHANA CHANDRAVATHI",
+  "dob": "16-12-2000",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171086",
+  "name": "PUTTA NAGA VENKATA KRISHNA PAVANI",
+  "dob": "21-12-2000",
+  "branch": "CE"
+ },
+ {
+  "id": "N171087",
+  "name": "DEVIREDDY PRASANNA",
+  "dob": "29-12-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171088",
+  "name": "CHINTHAKAYALA HARI DEEPIKA",
+  "dob": "07-02-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N171092",
+  "name": "GURRAM KRANTHI",
+  "dob": "13-03-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N171093",
+  "name": "KANNEGANTI JYOTHSNA",
+  "dob": "20-03-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171094",
+  "name": "MEDAPI SIREESHA",
+  "dob": "06-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171095",
+  "name": "KAMAVARAPU SAI PRASANNA",
+  "dob": "14-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171096",
+  "name": "KUNAPAREDDY VENKATA NAGA SAI CHANDU",
+  "dob": "07-05-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171097",
+  "name": "RAMANI SWAROOPA RANI",
+  "dob": "08-05-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171098",
+  "name": "SURESH SRINIVASA PRASANTH",
+  "dob": "12-05-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171099",
+  "name": "KALYANI DASARI",
+  "dob": "15-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171100",
+  "name": "CHINTALA HEMANTH KUMAR",
+  "dob": "28-05-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171101",
+  "name": "CHOUDARY RISHIKA",
+  "dob": "16-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171102",
+  "name": "GALLA NAGA ANJANI",
+  "dob": "06-06-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171105",
+  "name": "K HIMABINDU",
+  "dob": "23-06-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171106",
+  "name": "BATHINA HARI RAJENDRA DURGAPRASAD",
+  "dob": "12-08-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171107",
+  "name": "PONAGANTI NAGADURGA",
+  "dob": "30-06-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171108",
+  "name": "NIMMALA D S M VENKATA SATYA SIVA KUMAR",
+  "dob": "12-07-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171109",
+  "name": "VINOD KUMAR BUDUMURU",
+  "dob": "18-07-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171110",
+  "name": "THUGUTLA BHARGAV REDDY",
+  "dob": "01-08-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171111",
+  "name": "GUDURU UPENDRA REDDY",
+  "dob": "10-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171112",
+  "name": "SEELAM ASHOK REDDY",
+  "dob": "27-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171113",
+  "name": "SAVUTURU DEEPTHI",
+  "dob": "01-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171114",
+  "name": "DASARI JAHNAVI",
+  "dob": "25-10-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171115",
+  "name": "CHAPPIDI JAYA SRI",
+  "dob": "26-10-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171116",
+  "name": "MAMIDISETTI SARANYA",
+  "dob": "21-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171117",
+  "name": "SANKAR REDDY GARI SANTHOSH REDDY",
+  "dob": "04-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171118",
+  "name": "THOTTEMPUDI KUSUMA",
+  "dob": "28-05-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171119",
+  "name": "PALAPARTHI SAI KUMAR",
+  "dob": "17-01-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N171121",
+  "name": "PATRO GAYATRI",
+  "dob": "13-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171123",
+  "name": "CHEBROLU VASAVI RAO",
+  "dob": "26-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171124",
+  "name": "RAJALA GOVARDHAN REDDY",
+  "dob": "10-03-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171127",
+  "name": "YEDAKULA MOUNIKA",
+  "dob": "06-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171128",
+  "name": "BADARLA JAHNAVI",
+  "dob": "03-05-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N171129",
+  "name": "MADDALA SUKESH",
+  "dob": "08-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171130",
+  "name": "VARAGANI GNANI VIKAS",
+  "dob": "10-05-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171131",
+  "name": "KUSI JYOTHI RAVALI",
+  "dob": "14-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171132",
+  "name": "KUPPA SRIDEVI",
+  "dob": "17-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171134",
+  "name": "AMARADI SATYA SAI",
+  "dob": "29-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171135",
+  "name": "SHAIK MOHAMMAD ASIF",
+  "dob": "05-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171137",
+  "name": "PALETI AVINASH",
+  "dob": "06-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171138",
+  "name": "KONDEPUDI PAVANI",
+  "dob": "07-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171139",
+  "name": "DONDAPATI SNEHITHA",
+  "dob": "08-06-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N171140",
+  "name": "KAVURU GANESH SIVA KUMAR",
+  "dob": "29-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171141",
+  "name": "JAMULLAMUDI BANSY SUBBU",
+  "dob": "13-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171142",
+  "name": "KALLEPALLI VENKATA GUNNA TRINADH",
+  "dob": "15-07-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N171143",
+  "name": "BALAGANI HARIKA BHAVANI",
+  "dob": "08-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171144",
+  "name": "PATCHIKOLLA PREETHAM SAI",
+  "dob": "11-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171145",
+  "name": "GAJULA GOPI CHAND",
+  "dob": "19-09-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171147",
+  "name": "VADAPALLI JAYA SAI LAKSHMI SATHWIKA",
+  "dob": "10-11-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171148",
+  "name": "REGALLA NAVYA SRI",
+  "dob": "09-04-2003",
+  "branch": "ME"
+ },
+ {
+  "id": "N171149",
+  "name": "KAPUDASU SUVARNA",
+  "dob": "22-07-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171150",
+  "name": "CHOKKAM REDDY SUNKRISHNA",
+  "dob": "01-06-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171151",
+  "name": "PINNINTI MUKUNDA",
+  "dob": "12-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171152",
+  "name": "KOTA MADHUSUDHANA RAO",
+  "dob": "06-06-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171153",
+  "name": "BAVISETTI JYOTSNA",
+  "dob": "22-07-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171154",
+  "name": "KORAGANTI MALAVIKA",
+  "dob": "06-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171155",
+  "name": "GUNTURI BHAVYASRI",
+  "dob": "24-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171156",
+  "name": "PIDATHALA SWATHI",
+  "dob": "10-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171157",
+  "name": "PAGIDI DEEPIKA DIVYARCHANA",
+  "dob": "07-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171158",
+  "name": "DUDDU SRINIVASA GUPTHA",
+  "dob": "19-05-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171159",
+  "name": "RAYIPUDI PAVAN",
+  "dob": "20-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171160",
+  "name": "MUSETTY PURNA SAI VINAY",
+  "dob": "18-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171162",
+  "name": "MIRIYALA UDAYKIRAN",
+  "dob": "25-12-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171163",
+  "name": "VADLAMANI DURGA SRAVANI",
+  "dob": "08-05-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171164",
+  "name": "AREMANDA KAMAL",
+  "dob": "07-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171165",
+  "name": "ERANKI VENKATA NAGA SAI BHASKAR",
+  "dob": "17-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171166",
+  "name": "MALLELA NIKHITHA KEERTHI",
+  "dob": "23-09-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171167",
+  "name": "RACHAPUDI HARSHAVATSUTHA",
+  "dob": "10-01-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N171168",
+  "name": "VAIKANTI GOPALA KRISHNA",
+  "dob": "22-06-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171169",
+  "name": "NADIMPALLI PRAVALLIKA BHAVANI",
+  "dob": "29-06-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N171171",
+  "name": "PARSA VAMSI",
+  "dob": "22-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171172",
+  "name": "JUPUDI PRASANNA KUMARI",
+  "dob": "01-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171173",
+  "name": "APPIKONDA KIRAN",
+  "dob": "10-09-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171174",
+  "name": "AMBATI SANDEEP KUMAR",
+  "dob": "16-03-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171175",
+  "name": "KANCHERLA ESWAR UMA MAHESWAR",
+  "dob": "15-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171176",
+  "name": "MASILAPU SIRISHA",
+  "dob": "06-04-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N171177",
+  "name": "KOLA SUNEETHA",
+  "dob": "24-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171178",
+  "name": "SAKA SRAVANI",
+  "dob": "23-03-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171180",
+  "name": "BAKKI SREEVIRAJA",
+  "dob": "31-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171181",
+  "name": "KOPUSETTI PARIMALA",
+  "dob": "19-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171182",
+  "name": "JAVVAJI VEERANJANEYULU",
+  "dob": "15-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171184",
+  "name": "DEVARAPU NAGALAKSHMI",
+  "dob": "14-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171185",
+  "name": "VEERANKI HARIKA",
+  "dob": "28-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171186",
+  "name": "KATIKALA SUSMITHA",
+  "dob": "31-12-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171187",
+  "name": "VEMAVARAPU NARENDRA",
+  "dob": "26-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171188",
+  "name": "YEMINENI LAKSHMI NAGA MANI",
+  "dob": "24-04-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171189",
+  "name": "PATHAN RESHMA",
+  "dob": "28-05-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N171190",
+  "name": "BANDI SUSHMA FLORENCE",
+  "dob": "11-01-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171191",
+  "name": "JERRIPOTULA PAVITHRA",
+  "dob": "12-06-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171192",
+  "name": "JADAPALLI VENKATA RAVI TEJA",
+  "dob": "22-06-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N171193",
+  "name": "CHANDRAMALLA SINDHU PRIYA",
+  "dob": "17-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171195",
+  "name": "KAPULURI SRAVANI",
+  "dob": "11-02-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N171196",
+  "name": "UNDELA ANUSHA",
+  "dob": "16-02-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171197",
+  "name": "BOLLIPO CHANDRAMUKHI",
+  "dob": "04-04-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171198",
+  "name": "PASUPUREDDI ESWARARAO",
+  "dob": "08-04-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171200",
+  "name": "PARIMI RAJA RAJESWARI",
+  "dob": "24-08-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171201",
+  "name": "THANALA NAGA DURGA BHAVANI",
+  "dob": "22-08-2000",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171202",
+  "name": "TALLURI PRASAD",
+  "dob": "15-10-1999",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171204",
+  "name": "BATTARAJU NAGASRI",
+  "dob": "10-12-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171205",
+  "name": "MAREEDU JYOTHI RATNAM",
+  "dob": "21-08-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171206",
+  "name": "VILLURI JAJU EARNEST",
+  "dob": "31-08-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171207",
+  "name": "KARTHIK VARMA BHUPATHIRAJU",
+  "dob": "31-03-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N171209",
+  "name": "GUDDETI VARALAKSHMI",
+  "dob": "28-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171210",
+  "name": "BUDALA BHAGYA RAJ",
+  "dob": "14-10-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171211",
+  "name": "MELAM PRATHYUSHA",
+  "dob": "11-11-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171213",
+  "name": "DHODIGALLA DHANUSH KUMAR",
+  "dob": "16-06-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171214",
+  "name": "PATTI GOWTHAMI",
+  "dob": "06-02-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N171215",
+  "name": "GUMPULA JYOSTNA",
+  "dob": "09-04-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171216",
+  "name": "VEERAVALLI BHARATHKUMAR",
+  "dob": "20-11-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171219",
+  "name": "G ARUNA",
+  "dob": "10-07-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N171220",
+  "name": "ARUGULA MOUNIKA",
+  "dob": "07-02-2002",
+  "branch": "EEE"
+ },
+ {
+  "id": "N171223",
+  "name": "KOPPULA KAVYA SRI",
+  "dob": "19-04-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N171224",
+  "name": "KARE RUTHVI SARVANI",
+  "dob": "08-03-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171225",
+  "name": "TATI KEERTHI",
+  "dob": "27-11-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171226",
+  "name": "JUJJUVARAPU SUSMITHA",
+  "dob": "11-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171228",
+  "name": "JONNALAGADDA VINEETHA SURANJINI",
+  "dob": "26-09-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171229",
+  "name": "P DAVID RAJU",
+  "dob": "03-09-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N171230",
+  "name": "SHAIK JAINABI",
+  "dob": "12-05-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171231",
+  "name": "D DEVENDRA GOUD",
+  "dob": "13-07-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171232",
+  "name": "BASHYAM HARSHITHA",
+  "dob": "16-05-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N171233",
+  "name": "POTLA LAVANYA",
+  "dob": "01-11-2001",
+  "branch": "NP"
+ },
+ {
+  "id": "N171234",
+  "name": "BANAVATHU BHUMIKA RAMYA BAI",
+  "dob": "28-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171235",
+  "name": "MALLIPUDI NARAYANA MURTHY",
+  "dob": "26-08-2001",
+  "branch": "ME"
+ },
+ {
+  "id": "N171236",
+  "name": "BETHAMPUDI TEJA SAI KRISHNA",
+  "dob": "19-10-2001",
+  "branch": "CE"
+ },
+ {
+  "id": "N171238",
+  "name": "RAVADA GAYATHRI DEVI",
+  "dob": "21-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171239",
+  "name": "AREGE JESMITHA",
+  "dob": "17-09-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171240",
+  "name": "KURLA SOMA SEKHARA VAMSI",
+  "dob": "14-02-2002",
+  "branch": "ME"
+ },
+ {
+  "id": "N171241",
+  "name": "M LAKSHMI LALITHA",
+  "dob": "28-03-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171242",
+  "name": "N JAYADITHYA",
+  "dob": "10-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171243",
+  "name": "V BHARGAVI SIVA VANI",
+  "dob": "29-08-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N171244",
+  "name": "SK. JAKEERA",
+  "dob": "01-02-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171245",
+  "name": "RAMISETTI MANOJ SAI KUMAR",
+  "dob": "30-08-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171246",
+  "name": "BANAVATH GOWTHAMI",
+  "dob": "12-04-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171247",
+  "name": "BHUKYA KRISHNA",
+  "dob": "25-06-2002",
+  "branch": "MME"
+ },
+ {
+  "id": "N171248",
+  "name": "K PANDURANGA RAO",
+  "dob": "09-05-2002",
+  "branch": "NP"
+ },
+ {
+  "id": "N171250",
+  "name": "MALLIPUDI SRIHARI",
+  "dob": "26-02-2001",
+  "branch": "EEE"
+ },
+ {
+  "id": "N171251",
+  "name": "SHAIK FAMIDA",
+  "dob": "04-08-2001",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171252",
+  "name": "TAMALAMPUDI SATYA VINEETA",
+  "dob": "20-06-2002",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171253",
+  "name": "TIRUMALA UMA SATISH",
+  "dob": "04-07-2001",
+  "branch": "CHE"
+ },
+ {
+  "id": "N171254",
+  "name": "KOPALLI SATHVIKA",
+  "dob": "08-09-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171255",
+  "name": "SIKKIREDDI DIVYASRI",
+  "dob": "04-03-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171256",
+  "name": "THOTA JYOTHI PRASANNA LAKSHMI",
+  "dob": "28-03-2003",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171257",
+  "name": "VANAM SANDHYA",
+  "dob": "19-03-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171258",
+  "name": "PUTTA NAVYA DURGA",
+  "dob": "26-08-2001",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171259",
+  "name": "GHANTA RAMA NAGESWARI",
+  "dob": "07-01-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171260",
+  "name": "MUTHYALA SAMATHA",
+  "dob": "12-02-2002",
+  "branch": "CSE"
+ },
+ {
+  "id": "N171261",
+  "name": "BOYINA KESAVI",
+  "dob": "16-05-2002",
+  "branch": "CE"
+ },
+ {
+  "id": "N171262",
+  "name": "ABDUL ASHRAFUNNISA",
+  "dob": "27-09-2001",
+  "branch": "MME"
+ },
+ {
+  "id": "N171263",
+  "name": "MARRAPU NAVEEN KUMAR",
+  "dob": "10-06-2002",
+  "branch": "ECE"
+ },
+ {
+  "id": "N171264",
+  "name": "GEDELA LINESH",
+  "dob": "28-03-2001",
+  "branch": "ME"
+ }
+]

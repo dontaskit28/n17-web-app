@@ -1,0 +1,20 @@
+{
+  "files": {
+    "src/components/card.jsx": [
+      {
+        "id": "d5cce3f4-a58e-4669-94d9-a9731d64a7bb",
+        "line": 1,
+        "version": 2917,
+        "index": 0
+      }
+    ],
+    "src/components/paging.jsx": [
+      {
+        "id": "3ae7a6d6-bc35-4218-b2a9-5f1da9fe5c0b",
+        "line": 16,
+        "version": 1074,
+        "index": 380
+      }
+    ]
+  }
+}

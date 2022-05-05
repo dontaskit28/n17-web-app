@@ -1,0 +1,135 @@
+main{
+  display:flex;
+  flex-direction:column;
+}
+
+.card{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  background-color: #FF3CAC;
+  background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%,   #2B86C5 100%);
+
+  color:white;
+  width:70%;
+  margin: auto;
+  margin-top:30px;
+  padding: 30px;
+  border-radius: 50px;
+  
+}
+.name{
+  border-radius:20px;
+  padding: 10px;
+}
+
+.images{
+  width:250px;
+  height:auto;
+  border-radius:20px;
+}
+
+.btn{
+  background-color: #f5f5f5;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+
+  color:white;
+  padding:15px;
+  border:none;
+  border-radius:20px;
+  min-width:20%;
+}
+
+
+.btn,.home:hover{
+  cursor:pointer;
+  
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 80%);
+    
+}
+.pagingBtn{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-top: 20px;
+}
+.pagingBtn > button{
+  margin:0 5px;
+  
+  background-color:#e96767;
+  color:white;
+  width:30px;
+  height:30px;
+  border:none;
+  border-radius:10px;
+}
+.pagingBtn > button:hover{
+  cursor:pointer;
+}
+@media only screen and (max-width: 500px) {
+  .pagingBtn{
+  display:flex;
+  justify-content:space-evenly;
+  align-items:center;
+  
+  }
+  .pagingBtn > button{
+    margin:0;
+  }
+  
+}
+
+nav{
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(53,172,137,1) 10%, rgba(0,212,255,1) 100%);
+  width :100%;
+  height:80px;
+  position:sticky;
+  top:0;
+  display:flex;
+  justify-content:space-evenly;
+}
+nav ul{
+  float:right;
+  list-style:none;
+}
+nav ul li{
+  display: inline-block;
+  margin: 0px 5px;
+  color:white;
+  font-weight:bold;
+  padding:10px;
+}
+.inputField{
+  background:transparent;
+  width:65%;
+  font-size:20px;
+  padding:10px;
+  color:white;
+  box-sizing: border-box;
+  margin: 10px 20px;
+  border:none;
+  border:0;outline:0;
+  border-bottom: 2px solid black;
+}
+.inputField:focus{
+  outline:none!important;
+}
+.search-btn{
+  text-decoration:none;
+  background:transparent;
+  border:none;
+  color:white;
+  padding:10px;
+  font-weight:bold;
+  font-size:15px;
+}
+@media (max-width:980px){
+  nav{
+    height:150px;
+  }
+  .inputField{
+    width:50%;
+  }
+}
