@@ -26,7 +26,6 @@ const Card = ({student}) => {
         <div className="card" key= {each.id}>
           <h1 className="name" >{each.name}{', '+each.id}</h1>
           <h2>{each.branch}</h2>
-         <h2>Points : {points(each.id)}</h2>
           <h2>{each.dob}</h2>
         <img className="images" src={`https://intranet.rguktn.ac.in/SMS/usrphotos/user/${each.id}.jpg`} alt={each.id}/>
       </div>
