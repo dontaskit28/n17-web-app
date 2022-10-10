@@ -17,7 +17,7 @@ const Card = ({student}) => {
 
   const points = (id) =>{
     const out = Grades.filter(grade => grade.id == id);
-    if (out.length == 0) return "Unknown";
+    if (out.length == 0) return "Unknown Error";
     return out[0].points;
   }
   return(
